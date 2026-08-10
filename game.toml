@@ -1,0 +1,51 @@
+# Autofilled by tools/new_project_layout/probe_disc.py from your legal dump.
+# Review before shipping. Runtime quirks / overlay seeds still need hand work.
+
+[game]
+name = "Rampage - Through Time"
+id = "SLUS-01065"
+players = 3
+exe = "disc/SLUS_010.65"
+disc = "disc/Rampage - Through Time (USA).cue"
+load_address = "0x80010000"
+entry_pc = "0x80019590"
+text_size = "0x00080000"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "disc"
+bin_name = "Rampage - Through Time (USA).bin"
+cue_name = "Rampage - Through Time (USA).cue"
+boot_exe = "SLUS_010.65"
+known_sizes = [482637456]
+known_md5 = [
+  "5a892b92599694bf9e16408b8faef3bc",
+]
+known_sha1 = [
+  "42ea00198aaed858413bb1b7ae7a2902f17a59b6",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "Rampage - Through Time Recompiled"
+memcard_dir = "saves"
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+allow_hybrid = false
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+[netplay]
+require_cue = true
+required_tracks = 1
+required_disc_fp = "5519b39857e635662a126501230a4600c1ae9ad0e557a465a57888c52d6347e1"

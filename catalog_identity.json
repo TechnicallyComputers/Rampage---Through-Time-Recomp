@@ -1,0 +1,47 @@
+{
+  "format_version": 1,
+  "game": {
+    "name": "Rampage - Through Time",
+    "id": "SLUS-01065",
+    "boot_exe": "SLUS_010.65"
+  },
+  "marketing": {
+    "description": "Rampage is a series of video games released by Midway for various consoles. The basic premise of the series is that the player controls a human transformed into a giant monster by a lab accident. The gameplay revolves around using your monster to destroy cities around the world while attacking or avoiding military forces. Rampage Through Time is the fourth game in the Rampage series. It was released on June 9, 2000. Its predecessor is Rampage 2: Universal Tour and it is followed by Rampage: Total Destruction. In the game, 7 previous Scumlabs monsters, plus a new one, use a time machine to rampage through time. The world is again rebuilding after the events of Universal Tour. To clean up the mess quicker, Scumlabs invent a time machine to send people back in time to fix the mess without having to do it in the present. Unfortunately, the monsters, who have somehow made it back to Earth, appear and run into the machine. They begin terrorizing the past, present, and future, messing up the time stream.",
+    "publisher": "Midway",
+    "year": "2000",
+    "region": "USA",
+    "players": 3
+  },
+  "rom_identity": {
+    "cue_name": "Rampage - Through Time (USA).cue",
+    "bin_name": "Rampage - Through Time (USA).bin",
+    "track_counts": [
+      1
+    ],
+    "require_cue": true,
+    "data_track": {
+      "size": 482637456,
+      "md5": "5a892b92599694bf9e16408b8faef3bc",
+      "sha1": "42ea00198aaed858413bb1b7ae7a2902f17a59b6"
+    },
+    "disc_fp": "5519b39857e635662a126501230a4600c1ae9ad0e557a465a57888c52d6347e1"
+  },
+  "exe": {
+    "load_address": "0x80010000",
+    "entry_pc": "0x80019590",
+    "text_size": "0x00080000",
+    "stack_base": "0x801FFFF0"
+  },
+  "seeds": {
+    "count": 1222,
+    "source": "boot_exe_jal"
+  },
+  "warnings": [
+    "cue has only 1 TRACK \u2014 Track-01-only dumps fail multi-track netplay/catalog gates; prefer a full Redump cue."
+  ],
+  "notes": [
+    "entry_pc/load_address/text_size/stack_base taken from PS-X EXE header.",
+    "seeds are first-pass boot-EXE JAL targets (+ entry); expect to grow as overlays / runtime paths are discovered.",
+    "required_disc_fp is psxrecomp-toc-v1 (matches runtime DiscIdentity)."
+  ]
+}
