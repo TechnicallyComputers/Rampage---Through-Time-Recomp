@@ -5,10 +5,6 @@
 [![GitHub downloads (latest release)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/total)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
 [![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Rampage---Through-Time-Recomp)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
 
-[![Linux](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/rtt-%2A-linux-x64.zip)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
-[![Windows](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/rtt-%2A-windows-x64.zip)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
-[![macOS arm64](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/rtt-%2A-macos-arm64.zip)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
-[![macOS x64](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/rtt-%2A-macos-x64.zip)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
 <!-- /retcomm-readme-metrics -->
 
 Static recompilation of **Rampage - Through Time** built on
