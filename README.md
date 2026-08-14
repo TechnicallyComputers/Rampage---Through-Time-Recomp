@@ -1,9 +1,9 @@
 # Rampage - Through Time  Recompiled
 
 <!-- retcomm-readme-metrics -->
-[![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/total)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases)
-[![GitHub downloads (latest release)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/total)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
-[![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Rampage---Through-Time-Recomp)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
+[![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage-Through-Time-Recomp/total)](https://github.com/TechnicallyComputers/Rampage-Through-Time-Recomp/releases)
+[![GitHub downloads (latest release)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage-Through-Time-Recomp/latest/total)](https://github.com/TechnicallyComputers/Rampage-Through-Time-Recomp/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Rampage-Through-Time-Recomp)](https://github.com/TechnicallyComputers/Rampage-Through-Time-Recomp/releases/latest)
 <!-- /retcomm-readme-metrics -->
 
 Static recompilation of **Rampage - Through Time** built on
@@ -82,3 +82,15 @@ are authoritative. `framework_pins.txt` is an optional scaffold snapshot;
 release CI logs SHAs with `record_pins.sh` but builds whatever the gitlinks
 resolve to. Bump submodules deliberately — do not float on `main`/`master`
 in release CI.
+
+<!-- retcomm-readme-raid -->
+---
+
+<p align="center">
+  <sub><b>R.A.I.D. — Retro AI Development</b> · a Discord for AI-assisted retro reverse-engineering, decomp &amp; recomp</sub>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Ad9BwSzctP"><img src=".github/raid-discord.png" alt="Join the Retro AI Development (R.A.I.D.) Discord" width="200"></a>
+</p>
+<!-- /retcomm-readme-raid -->
