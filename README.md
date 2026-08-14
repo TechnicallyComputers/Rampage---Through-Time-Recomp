@@ -4,7 +4,6 @@
 [![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/total)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases)
 [![GitHub downloads (latest release)](https://img.shields.io/github/downloads/TechnicallyComputers/Rampage---Through-Time-Recomp/latest/total)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
 [![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Rampage---Through-Time-Recomp)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp/releases/latest)
-
 <!-- /retcomm-readme-metrics -->
 
 Static recompilation of **Rampage - Through Time** built on
