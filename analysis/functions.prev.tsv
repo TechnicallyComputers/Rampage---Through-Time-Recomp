@@ -1,0 +1,1801 @@
+addr	size	name	confidence	args	ret	callers	callees	frame	saved	tags
+0x80014EE8	8	func_80014EE8	low	0	void	1	0	0		leaf|gte
+0x80014EF0	8	func_80014EF0	low	0	void	1	0	0		leaf|partial
+0x80014EF8	8	func_80014EF8	low	0	u32	1	0	0		leaf
+0x80014F00	8	func_80014F00	low	0	void	1	0	0		leaf
+0x80014F08	8	func_80014F08	low	0	void	1	0	0		leaf|gte
+0x80014F10	8	func_80014F10	low	0	void	1	0	0		leaf
+0x80014F18	8	func_80014F18	low	0	void	1	0	0		leaf|gte
+0x80014F20	8	func_80014F20	low	0	void	1	0	0		leaf|gte
+0x80014F28	8	func_80014F28	low	0	void	1	0	0		leaf|gte
+0x80014F30	8	func_80014F30	low	0	void	1	0	0		leaf|gte
+0x80014F38	8	func_80014F38	low	0	void	1	0	0		leaf|gte
+0x80014F40	8	func_80014F40	low	0	void	1	0	0		leaf|gte
+0x80014F48	8	func_80014F48	low	0	void	1	0	0		leaf|gte
+0x80014F50	8	func_80014F50	low	0	void	1	0	0		leaf|partial
+0x80014F58	8	func_80014F58	low	0	u32	1	0	0		leaf|partial
+0x80014F60	8	func_80014F60	low	0	void	1	0	0		leaf|gte
+0x80014F68	8	func_80014F68	low	0	void	1	0	0		leaf|partial
+0x80014F70	8	func_80014F70	low	0	u32	1	0	0		leaf|partial
+0x80014F78	8	func_80014F78	low	0	void	1	0	0		leaf|gte
+0x80014F80	8	func_80014F80	low	0	void	1	0	0		leaf|partial
+0x80014F88	8	func_80014F88	low	0	u32	1	0	0		leaf
+0x80014F90	8	func_80014F90	low	0	void	1	0	0		leaf
+0x80014F98	8	func_80014F98	low	0	void	1	0	0		leaf|gte
+0x80014FA0	8	func_80014FA0	low	0	void	1	0	0		leaf
+0x80014FA8	8	func_80014FA8	low	0	void	1	0	0		leaf|gte
+0x80014FB0	8	func_80014FB0	low	0	void	1	0	0		leaf|gte
+0x80014FB8	8	func_80014FB8	low	0	void	1	0	0		leaf|gte
+0x80014FC0	8	func_80014FC0	low	0	void	1	0	0		leaf|gte
+0x80014FC8	8	func_80014FC8	low	0	void	1	0	0		leaf|gte
+0x80014FD0	8	func_80014FD0	low	0	void	1	0	0		leaf|gte
+0x80014FD8	8	func_80014FD8	low	0	void	1	0	0		leaf|partial
+0x80014FE0	8	func_80014FE0	low	0	u32	1	0	0		leaf|partial
+0x80014FE8	8	func_80014FE8	low	0	void	1	0	0		leaf|gte
+0x80014FF0	8	func_80014FF0	low	0	void	1	0	0		leaf|partial
+0x80014FF8	8	func_80014FF8	low	0	u32	1	0	0		leaf|partial
+0x80015000	8	func_80015000	low	0	void	1	0	0		leaf|gte
+0x80015008	8	func_80015008	low	0	void	1	0	0		leaf|partial
+0x80015010	8	func_80015010	low	0	u32	1	0	0		leaf
+0x80015018	8	func_80015018	low	0	void	1	0	0		leaf
+0x80015020	8	func_80015020	low	0	void	1	0	0		leaf|gte
+0x80015028	8	func_80015028	low	0	void	1	0	0		leaf
+0x80015030	8	func_80015030	low	0	void	1	0	0		leaf|gte
+0x80015038	8	func_80015038	low	0	void	1	0	0		leaf|gte
+0x80015040	8	func_80015040	low	0	void	1	0	0		leaf|gte
+0x80015048	8	func_80015048	low	0	void	1	0	0		leaf|gte
+0x80015050	8	func_80015050	low	0	void	1	0	0		leaf|gte
+0x80015058	8	func_80015058	low	0	void	1	0	0		leaf|gte
+0x80015060	8	func_80015060	low	0	void	1	0	0		leaf|gte
+0x80015068	8	func_80015068	low	0	void	1	0	0		leaf|gte
+0x80015070	8	func_80015070	low	0	void	1	0	0		leaf|gte
+0x80015078	8	func_80015078	low	0	void	1	0	0		leaf|partial
+0x80015080	8	func_80015080	low	0	u32	1	0	0		leaf|partial
+0x80015088	8	func_80015088	low	0	void	1	0	0		leaf|gte
+0x80015090	8	func_80015090	low	0	void	1	0	0		leaf|partial
+0x80015098	8	func_80015098	low	0	u32	1	0	0		leaf|partial
+0x800150A0	8	func_800150A0	low	0	void	1	0	0		leaf|gte
+0x800150A8	8	func_800150A8	low	0	void	1	0	0		leaf|partial
+0x800150B0	8	func_800150B0	low	0	u32	1	0	0		leaf
+0x800150B8	8	func_800150B8	low	0	void	1	0	0		leaf|partial
+0x800150C0	8	func_800150C0	low	0	void	1	0	0		leaf|gte
+0x800150C8	8	func_800150C8	low	0	void	1	0	0		leaf
+0x800150D0	8	func_800150D0	low	0	void	1	0	0		leaf|gte
+0x800150D8	8	func_800150D8	low	0	void	1	0	0		leaf|gte
+0x800150E0	1192	func_800150E0	low	0	u32	1	0	0		leaf|gte|partial
+0x80015588	16384	func_80015588	data	0	void	0	0	0		leaf|orphan
+0x80019588	8	func_80019588	high	0	void	1	0	0		leaf
+0x80019590	188	BootEntry	low	0	u32	0	2	0		break|gp
+0x8001964C	56	func_8001964C	verified	0	void	1	4	24	ra	
+0x80019684	1196	func_80019684	verified	4	u32	1	3	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80019B30	56	func_80019B30	high	0	u32	1	0	0		leaf
+0x80019B68	280	func_80019B68	verified	0	u32	1	1	32	s0|s1|s2|ra	
+0x80019C80	944	func_80019C80	verified	0	u32	1	23	56	s0|s1|s2|s3|ra	indirect
+0x8001A030	340	func_8001A030	verified	0	u32	1	5	24	s0|ra	
+0x8001A184	144	func_8001A184	verified	0	u32	1	5	24	s0|ra	
+0x8001A214	100	func_8001A214	high	2	u32	1	0	0		leaf
+0x8001A278	312	func_8001A278	high	1	u32	1	2	0	s0|ra	
+0x8001A3B0	32	func_8001A3B0	verified	1	void	1	1	24	ra	
+0x8001A3D0	44	func_8001A3D0	verified	0	u32	1	1	24	ra	
+0x8001A3FC	676	func_8001A3FC	verified	4	u32	2	2	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8001A6A0	756	func_8001A6A0	verified	4	u32	2	2	72	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8001A994	68	func_8001A994	high	0	u32	1	0	0		leaf
+0x8001A9D8	228	func_8001A9D8	high	1	u32	1	0	0		leaf
+0x8001AABC	88	func_8001AABC	high	0	u32	2	2	0	ra	
+0x8001AB14	396	func_8001AB14	verified	0	u32	1	1	32	s0|s1|ra	
+0x8001ACA0	116	func_8001ACA0	high	0	u32	4	0	0		leaf
+0x8001AD14	52	func_8001AD14	high	0	u32	4	0	0		leaf
+0x8001AD48	32	func_8001AD48	high	0	u32	1	0	0		leaf
+0x8001AD68	160	func_8001AD68	high	0	u32	4	1	0	s0|s1|s2|s3|ra	
+0x8001AE08	32	func_8001AE08	high	3	u32	3	0	0		leaf
+0x8001AE28	32	func_8001AE28	high	3	u32	1	0	0		leaf
+0x8001AE48	584	func_8001AE48	verified	2	u32	6	5	40	s0|s1|s2|s3|s4|ra	
+0x8001B090	40	func_8001B090	high	2	u32	1	0	0		leaf
+0x8001B0B8	476	func_8001B0B8	verified	2	u32	3	3	568	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8001B294	232	func_8001B294	verified	2	u32	3	6	32	s0|s1|s2|ra	
+0x8001B37C	232	func_8001B37C	verified	2	u32	1	5	40	s0|s1|s2|s3|s4|ra	
+0x8001B464	252	func_8001B464	verified	2	u32	2	6	40	s0|s1|s2|s3|s4|ra	
+0x8001B560	340	func_8001B560	verified	3	u32	1	3	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8001B6B4	484	func_8001B6B4	verified	2	u32	1	1	24	ra	
+0x8001B898	68	func_8001B898	verified	1	u32	2	1	24	ra	
+0x8001B8DC	64	func_8001B8DC	verified	1	u32	1	1	24	ra	
+0x8001B91C	156	func_8001B91C	verified	2	u32	3	1	40	s0|s1|s2|s3|ra	
+0x8001B9B8	80	func_8001B9B8	high	1	u32	4	0	0		leaf
+0x8001BA08	464	func_8001BA08	verified	0	u32	1	6	48	s0|s1|s2|s3|s4|ra	
+0x8001BBD8	116	func_8001BBD8	verified	1	u32	3	2	24	s0|ra	
+0x8001BC4C	556	func_8001BC4C	verified	3	u32	1	6	48	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8001BE78	108	func_8001BE78	medium	1	u32	14	7	24	s0|ra	
+0x8001BEE4	48	func_8001BEE4	high	1	u32	5	0	0		leaf
+0x8001BF14	312	func_8001BF14	verified	0	u32	1	12	24	ra	
+0x8001C04C	32	func_8001C04C	high	1	u32	7	0	0		leaf
+0x8001C06C	32	func_8001C06C	high	1	u32	4	0	0		leaf
+0x8001C08C	100	func_8001C08C	high	0	u32	1	1	0	ra	
+0x8001C0F0	420	func_8001C0F0	high	0	u32	1	11	0	s0|s1|s2|ra	
+0x8001C294	140	func_8001C294	verified	0	u32	1	3	24	ra	
+0x8001C320	364	func_8001C320	verified	0	u32	1	8	48	s0|s1|s2|ra	
+0x8001C48C	604	func_8001C48C	verified	0	u32	2	13	32	s0|s1|ra	
+0x8001C6E8	532	func_8001C6E8	verified	0	u32	1	27	32	s0|s1|ra	
+0x8001C8FC	140	func_8001C8FC	high	0	u32	2	3	0	ra	
+0x8001C988	1448	func_8001C988	high	0	u32	1	22	0	s0|s1|ra	
+0x8001CF30	96	func_8001CF30	verified	0	u32	1	2	24	ra	
+0x8001CF90	244	func_8001CF90	high	0	u32	1	9	0	ra	
+0x8001D084	60	func_8001D084	high	0	u32	4	1	0	ra	
+0x8001D0C0	80	func_8001D0C0	verified	0	u32	3	2	24	ra	
+0x8001D110	116	func_8001D110	high	0	u32	57	0	0		leaf
+0x8001D184	32	func_8001D184	verified	0	void	8	1	24	ra	
+0x8001D1A4	88	func_8001D1A4	verified	0	u32	1	4	24	ra	
+0x8001D1FC	232	func_8001D1FC	verified	0	u32	1	3	40	s0|s1|s2|s3|ra	
+0x8001D2E4	64	func_8001D2E4	verified	2	void	4	1	32	ra	
+0x8001D324	984	func_8001D324	verified	0	u32	1	13	48	s0|s1|s2|s3|s4|s5|ra	
+0x8001D6FC	352	func_8001D6FC	verified	0	u32	2	3	48	s0|s1|s2|s3|s4|s5|ra	
+0x8001D85C	68	func_8001D85C	high	0	u32	1	0	0		leaf
+0x8001D8A0	460	func_8001D8A0	medium	1	u32	10	8	48	s0|s1|ra	
+0x8001DA6C	104	func_8001DA6C	high	2	u32	9	0	0		leaf
+0x8001DAD4	36	func_8001DAD4	high	2	u32	1	0	0		leaf
+0x8001DAF8	360	func_8001DAF8	verified	2	u32	2	1	48	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8001DC60	388	func_8001DC60	verified	2	u32	2	1	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8001DDE4	176	func_8001DDE4	verified	4	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x8001DE94	128	func_8001DE94	verified	1	u32	1	2	24	s0|ra	
+0x8001DF14	120	func_8001DF14	verified	3	u32	1	1	40	s0|s1|s2|s3|ra	
+0x8001DF8C	84	func_8001DF8C	verified	1	u32	5	1	24	s0|ra	break
+0x8001DFE0	60	func_8001DFE0	verified	2	u32	4	1	24	s0|ra	
+0x8001E01C	180	func_8001E01C	verified	4	u32	2	2	40	s0|s1|s2|s3|s4|ra	
+0x8001E0D0	36	func_8001E0D0	verified	0	u32	2	1	24	ra	
+0x8001E0F4	56	func_8001E0F4	low	2	u32	0	0	0		leaf|orphan
+0x8001E12C	20	func_8001E12C	low	1	u32	0	0	0		leaf|orphan
+0x8001E140	88	func_8001E140	medium	3	u32	0	1	32	s0|ra	orphan
+0x8001E198	1212	func_8001E198	high	0	u32	1	13	0	s0|s1|s2|s3|s4|ra	
+0x8001E654	476	func_8001E654	verified	0	u32	1	11	32	s0|s1|s2|ra	
+0x8001E830	568	func_8001E830	verified	0	u32	1	14	32	s0|s1|s2|ra	
+0x8001EA68	192	func_8001EA68	verified	1	u32	2	1	32	s0|s1|ra	
+0x8001EB28	164	func_8001EB28	verified	1	u32	1	6	24	ra	
+0x8001EBCC	80	func_8001EBCC	high	1	u32	2	0	0		leaf
+0x8001EC1C	52	func_8001EC1C	low	1	u32	0	0	0		leaf|orphan
+0x8001EC50	40	func_8001EC50	low	0	u32	0	0	0		leaf|orphan
+0x8001EC78	152	func_8001EC78	low	1	u32	0	0	0		leaf|orphan
+0x8001ED10	460	func_8001ED10	verified	0	u32	1	1	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8001EEDC	168	func_8001EEDC	verified	0	u32	1	4	24	s0|ra	
+0x8001EF84	92	func_8001EF84	verified	0	u32	1	1	24	s0|ra	
+0x8001EFE0	28	func_8001EFE0	low	0	u32	1	0	0		leaf
+0x8001EFFC	204	func_8001EFFC	medium	2	u32	0	3	40	ra	orphan
+0x8001F0C8	544	func_8001F0C8	high	0	u32	1	5	0	s0|s1|s2|s3|ra	
+0x8001F2E8	108	func_8001F2E8	verified	0	u32	1	6	24	ra	
+0x8001F354	116	func_8001F354	verified	1	u32	1	3	24	s0|ra	
+0x8001F3C8	520	func_8001F3C8	verified	3	u32	1	2	40	s0|s1|s2|s3|s4|ra	indirect
+0x8001F5D0	112	func_8001F5D0	verified	1	u32	1	1	32	s0|s1|ra	
+0x8001F640	108	func_8001F640	verified	0	u32	1	1	24	s0|ra	
+0x8001F6AC	76	func_8001F6AC	verified	1	u32	5	1	32	s0|s1|ra	
+0x8001F6F8	24	func_8001F6F8	high	1	u32	2	0	0		leaf
+0x8001F710	48	func_8001F710	verified	0	u32	3	1	24	ra	
+0x8001F740	252	func_8001F740	verified	0	u32	1	2	40	s0|s1|ra	
+0x8001F83C	36	func_8001F83C	verified	0	void	1	2	24	ra	addr_taken
+0x8001F860	144	func_8001F860	verified	0	u32	1	2	24	s0|ra	
+0x8001F8F0	152	func_8001F8F0	high	0	u32	1	4	0	ra	addr_taken
+0x8001F988	268	func_8001F988	verified	0	u32	2	2	24	s0|ra	
+0x8001FA94	648	func_8001FA94	high	0	u32	1	9	0	s0|s1|ra	
+0x8001FD1C	92	func_8001FD1C	high	0	u32	1	0	0		leaf
+0x8001FD78	8	func_8001FD78	low	0	u32	0	0	0		leaf|orphan
+0x8001FD80	712	func_8001FD80	high	0	u32	1	5	0	ra	
+0x80020048	260	func_80020048	verified	0	u32	1	5	24	ra	
+0x8002014C	216	func_8002014C	verified	0	u32	1	3	24	ra	
+0x80020224	140	func_80020224	high	0	u32	3	1	0	ra	addr_taken
+0x800202B0	168	func_800202B0	low	0	u32	0	1	0	ra	orphan
+0x80020358	156	func_80020358	low	0	u32	0	1	0	ra	orphan
+0x800203F4	212	func_800203F4	high	0	u32	4	0	0		leaf
+0x800204C8	16	func_800204C8	low	4	u32	0	0	0		leaf|orphan
+0x800204D8	28	func_800204D8	low	0	u32	0	0	0		leaf|orphan
+0x800204F4	8	func_800204F4	low	0	void	0	0	0		leaf|orphan
+0x800204FC	212	func_800204FC	high	0	u32	1	0	0		leaf
+0x800205D0	28	func_800205D0	low	4	u32	0	0	0		leaf|orphan
+0x800205EC	284	func_800205EC	high	1	u32	1	0	0		leaf
+0x80020708	32	func_80020708	low	0	u32	0	0	0		leaf|orphan
+0x80020728	128	func_80020728	medium	4	u32	0	1	32	s0|ra	orphan
+0x800207A8	108	func_800207A8	medium	3	u32	0	2	24	s0|ra	orphan
+0x80020814	84	func_80020814	low	1	u32	0	0	0		leaf|orphan
+0x80020868	44	func_80020868	low	1	u32	0	0	0		leaf|orphan
+0x80020894	64	func_80020894	low	1	u32	0	0	0		leaf|orphan
+0x800208D4	92	func_800208D4	low	1	u32	0	0	0		leaf|orphan
+0x80020930	64	func_80020930	low	1	u32	0	0	0		leaf|orphan
+0x80020970	32	func_80020970	low	1	u32	0	0	0		leaf|orphan
+0x80020990	300	func_80020990	medium	2	u32	1	1	24	s0|ra	orphan
+0x80020ABC	132	func_80020ABC	verified	4	u32	3	2	40	s0|s1|s2|s3|ra	
+0x80020B40	16	func_80020B40	low	2	void	1	0	0		leaf|orphan
+0x80020B50	36	func_80020B50	low	1	u32	0	0	0		leaf|orphan
+0x80020B74	8	func_80020B74	low	0	u32	0	0	0		leaf|orphan
+0x80020B7C	44	func_80020B7C	low	1	u32	0	0	0		leaf|orphan
+0x80020BA8	8	func_80020BA8	low	0	u32	0	0	0		leaf|orphan
+0x80020BB0	24	func_80020BB0	low	2	u32	0	0	0		leaf|orphan
+0x80020BC8	84	func_80020BC8	low	1	u32	0	0	0		leaf|break|orphan
+0x80020C1C	28	func_80020C1C	low	1	u32	0	0	0		leaf|orphan
+0x80020C38	16	func_80020C38	low	2	u32	0	0	0		leaf|orphan
+0x80020C48	60	func_80020C48	low	1	u32	0	0	0		leaf|orphan
+0x80020C84	20	func_80020C84	low	2	u32	0	0	0		leaf|orphan
+0x80020C98	24	func_80020C98	low	2	u32	0	0	0		leaf|orphan
+0x80020CB0	84	func_80020CB0	low	1	u32	0	0	0		leaf|break|orphan
+0x80020D04	28	func_80020D04	low	1	u32	0	0	0		leaf|orphan
+0x80020D20	24	func_80020D20	low	1	u32	0	0	0		leaf|orphan
+0x80020D38	24	func_80020D38	low	1	u32	0	0	0		leaf|orphan
+0x80020D50	24	func_80020D50	low	1	u32	0	0	0		leaf|orphan
+0x80020D68	24	func_80020D68	low	1	u32	0	0	0		leaf|orphan
+0x80020D80	24	func_80020D80	low	1	u32	0	0	0		leaf|orphan
+0x80020D98	24	func_80020D98	low	1	u32	0	0	0		leaf|orphan
+0x80020DB0	16	func_80020DB0	low	2	u32	0	0	0		leaf|orphan
+0x80020DC0	60	func_80020DC0	low	1	u32	0	0	0		leaf|orphan
+0x80020DFC	24	func_80020DFC	low	1	u32	0	0	0		leaf|orphan
+0x80020E14	24	func_80020E14	low	1	u32	0	0	0		leaf|orphan
+0x80020E2C	24	func_80020E2C	low	1	u32	0	0	0		leaf|orphan
+0x80020E44	24	func_80020E44	low	1	u32	0	0	0		leaf|orphan
+0x80020E5C	24	func_80020E5C	low	1	u32	0	0	0		leaf|orphan
+0x80020E74	24	func_80020E74	low	1	u32	0	0	0		leaf|orphan
+0x80020E8C	20	func_80020E8C	low	2	u32	0	0	0		leaf|orphan
+0x80020EA0	436	func_80020EA0	verified	0	u32	1	3	48	s0|s1|s2|s3|s4|s5|ra	
+0x80021054	124	func_80021054	verified	1	u32	1	6	24	s0|ra	
+0x800210D0	668	func_800210D0	verified	0	u32	1	8	24	s0|ra	indirect
+0x8002136C	204	func_8002136C	high	1	u32	3	2	0		leaf
+0x80021438	68	func_80021438	verified	1	u32	3	1	24	ra	
+0x8002147C	40	func_8002147C	verified	1	void	4	2	24	ra	
+0x800214A4	60	func_800214A4	verified	2	u32	3	2	24	s0|ra	
+0x800214E0	52	func_800214E0	verified	2	u32	1	2	24	s0|ra	
+0x80021514	32	func_80021514	low	1	u32	0	0	0		leaf|orphan
+0x80021534	176	func_80021534	verified	4	u32	6	3	24	ra	
+0x800215E4	36	func_800215E4	high	0	u32	27	0	0		leaf
+0x80021608	44	func_80021608	high	0	u32	2	0	0		leaf
+0x80021634	44	func_80021634	high	0	u32	7	0	0		leaf
+0x80021660	48	func_80021660	high	0	u32	1	0	0		leaf
+0x80021690	104	func_80021690	verified	0	u32	1	1	24	s0|ra	
+0x800216F8	140	func_800216F8	medium	0	u32	0	1	24	s0|ra	orphan
+0x80021784	32	func_80021784	low	1	u32	0	0	0		leaf|orphan
+0x800217A4	32	func_800217A4	low	1	u32	0	0	0		leaf|orphan
+0x800217C4	120	func_800217C4	medium	0	u32	1	6	24	ra	
+0x8002183C	256	func_8002183C	verified	0	u32	1	10	40	s0|s1|s2|s3|s4|ra	
+0x8002193C	308	func_8002193C	high	0	u32	1	1	0	s0|ra	
+0x80021A70	224	func_80021A70	high	0	u32	1	6	0	s0|s1|ra	
+0x80021B50	128	func_80021B50	verified	0	u32	1	2	24	s0|ra	
+0x80021BD0	84	func_80021BD0	verified	0	u32	1	3	24	ra	
+0x80021C24	60	func_80021C24	verified	0	u32	7	1	24	ra	
+0x80021C60	84	func_80021C60	high	0	u32	1	0	0		leaf|addr_taken
+0x80021CB4	232	func_80021CB4	verified	0	u32	1	3	40	ra	
+0x80021D9C	240	func_80021D9C	verified	0	u32	1	1	32	s0|s1|s2|ra	indirect
+0x80021E8C	64	func_80021E8C	high	2	u32	1	0	0		leaf
+0x80021ECC	156	func_80021ECC	verified	0	u32	4	1	24	s0|ra	
+0x80021F68	32	func_80021F68	verified	0	void	1	1	24	ra	
+0x80021F88	32	func_80021F88	verified	0	void	4	1	24	ra	
+0x80021FA8	32	func_80021FA8	verified	0	void	4	1	24	ra	
+0x80021FC8	40	func_80021FC8	verified	1	u32	5	1	24	ra	
+0x80021FF0	104	func_80021FF0	high	0	u32	3	3	0	s0|s1|ra	
+0x80022058	36	func_80022058	verified	0	u32	1	1	24	ra	
+0x8002207C	36	func_8002207C	verified	0	u32	1	1	24	ra	
+0x800220A0	796	func_800220A0	verified	1	u32	2	2	56	s0|s1|s2|s3|s4|s5|ra	
+0x800223BC	736	func_800223BC	verified	0	u32	43	6	40	s0|s1|s2|s3|ra	indirect
+0x8002269C	484	func_8002269C	verified	1	u32	13	6	32	s0|s1|ra	
+0x80022880	120	func_80022880	high	1	u32	1	0	0		leaf
+0x800228F8	156	func_800228F8	high	0	u32	1	0	0		leaf
+0x80022994	208	func_80022994	verified	0	u32	1	1	24	s0|ra	
+0x80022A64	144	func_80022A64	verified	1	u32	2	1	24	s0|ra	
+0x80022AF4	180	func_80022AF4	verified	0	u32	3	2	32	s0|s1|ra	
+0x80022BA8	164	func_80022BA8	verified	1	u32	5	1	24	s0|ra	
+0x80022C4C	44	func_80022C4C	high	1	u32	3	0	0		leaf
+0x80022C78	96	func_80022C78	high	1	u32	6	1	0	s0|s1|s2|ra	
+0x80022CD8	112	func_80022CD8	verified	1	u32	27	4	24	s0|ra	
+0x80022D48	116	func_80022D48	verified	1	u32	1	1	24	s0|ra	
+0x80022DBC	104	func_80022DBC	verified	2	u32	2	1	24	s0|ra	
+0x80022E24	44	func_80022E24	verified	3	u32	1	1	24	ra	
+0x80022E50	52	func_80022E50	high	4	u32	1	0	0		leaf
+0x80022E84	52	func_80022E84	verified	2	u32	16	1	24	ra	
+0x80022EB8	52	func_80022EB8	verified	1	u32	1	1	24	ra	
+0x80022EEC	88	func_80022EEC	verified	1	u32	1	1	24	s0|ra	
+0x80022F44	72	func_80022F44	high	0	u32	9	1	0	s0|ra	
+0x80022F8C	40	func_80022F8C	low	0	u32	0	1	0	ra	orphan
+0x80022FB4	176	func_80022FB4	verified	1	u32	3	2	32	s0|s1|s2|ra	
+0x80023064	64	func_80023064	low	0	u32	1	0	0		leaf|orphan
+0x800230A4	8	func_800230A4	low	3	void	0	0	0		leaf|orphan
+0x800230AC	140	func_800230AC	medium	2	u32	0	1	40	s0|s1|s2|s3|ra	orphan
+0x80023138	44	func_80023138	low	3	u32	0	0	0		leaf|orphan
+0x80023164	52	func_80023164	verified	0	u32	3	3	24	ra	
+0x80023198	76	func_80023198	high	2	u32	1	0	0		leaf
+0x800231E4	104	func_800231E4	high	0	u32	1	0	0		leaf
+0x8002324C	76	func_8002324C	verified	0	u32	17	1	24	s0|ra	
+0x80023298	76	func_80023298	verified	1	u32	1	1	24	s0|ra	break
+0x800232E4	76	func_800232E4	medium	1	u32	0	1	24	s0|ra	break|orphan
+0x80023330	44	func_80023330	verified	2	u32	19	1	24	s0|ra	
+0x8002335C	96	func_8002335C	verified	0	void	2	2	32	s0|s1|ra	
+0x800233BC	64	func_800233BC	high	2	u32	1	0	0		leaf
+0x800233FC	52	func_800233FC	verified	0	u32	5	1	24	ra	indirect
+0x80023430	64	func_80023430	verified	0	u32	2	1	24	ra	addr_taken
+0x80023470	60	func_80023470	medium	0	u32	0	1	24	ra	orphan
+0x800234AC	64	func_800234AC	verified	0	u32	3	1	24	ra	addr_taken
+0x800234EC	852	func_800234EC	verified	0	u32	3	7	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x80023840	8	func_80023840	high	0	void	0	0	0		leaf|addr_taken
+0x80023848	64	func_80023848	high	0	u32	0	1	24	ra	addr_taken
+0x80023888	100	func_80023888	verified	0	u32	1	1	24	ra	
+0x800238EC	100	func_800238EC	verified	0	u32	2	1	24	s0|ra	
+0x80023950	136	func_80023950	verified	0	u32	2	1	24	ra	
+0x800239D8	244	func_800239D8	verified	1	u32	1	2	32	s0|s1|s2|ra	
+0x80023ACC	152	func_80023ACC	verified	4	u32	1	2	24	ra	
+0x80023B64	48	func_80023B64	verified	0	u32	5	2	24	ra	
+0x80023B94	32	func_80023B94	verified	0	void	2	1	24	ra	
+0x80023BB4	32	func_80023BB4	verified	0	void	2	1	24	ra	
+0x80023BD4	60	func_80023BD4	verified	1	u32	41	2	24	ra	
+0x80023C10	32	func_80023C10	medium	0	void	0	1	24	ra	orphan
+0x80023C30	76	func_80023C30	high	0	u32	2	1	0	ra	
+0x80023C7C	44	func_80023C7C	verified	2	u32	24	1	24	ra	
+0x80023CA8	80	func_80023CA8	verified	1	u32	3	1	24	ra	
+0x80023CF8	356	func_80023CF8	verified	0	u32	1	2	32	s0|s1|ra	
+0x80023E5C	32	func_80023E5C	verified	0	void	1	1	24	ra	
+0x80023E7C	3024	func_80023E7C	verified	2	u32	1	9	80	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80024A4C	332	func_80024A4C	verified	0	u32	1	2	40	s0|s1|s2|s3|ra	indirect
+0x80024B98	60	func_80024B98	verified	1	void	1	1	24	s0|ra	
+0x80024BD4	796	func_80024BD4	verified	1	u32	1	2	32	s0|s1|s2|ra	
+0x80024EF0	172	func_80024EF0	verified	1	u32	1	1	24	s0|ra	
+0x80024F9C	324	func_80024F9C	verified	3	u32	9	1	32	s0|s1|s2|ra	
+0x800250E0	244	func_800250E0	verified	0	u32	1	2	24	ra	
+0x800251D4	376	func_800251D4	verified	3	u32	1	2	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8002534C	168	func_8002534C	high	3	u32	1	0	0		leaf
+0x800253F4	200	func_800253F4	high	0	u32	1	1	0	s0|s1|s2|s3|ra	
+0x800254BC	60	func_800254BC	high	0	u32	2	0	0		leaf
+0x800254F8	192	func_800254F8	verified	0	u32	1	3	40	s0|s1|s2|s3|ra	
+0x800255B8	512	func_800255B8	verified	0	u32	1	6	48	s0|s1|s2|s3|s4|s5|ra	
+0x800257B8	532	func_800257B8	verified	1	u32	1	8	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x800259CC	232	func_800259CC	verified	1	u32	1	3	40	s0|s1|s2|s3|ra	
+0x80025AB4	292	func_80025AB4	verified	1	u32	2	1	40	s0|s1|s2|s3|s4|ra	
+0x80025BD8	124	func_80025BD8	high	2	u32	1	0	0		leaf
+0x80025C54	8	func_80025C54	high	0	void	1	0	0		leaf
+0x80025C5C	364	func_80025C5C	verified	1	u32	1	2	32	s0|s1|ra	
+0x80025DC8	104	func_80025DC8	verified	1	void	3	1	24	s0|ra	
+0x80025E30	104	func_80025E30	verified	1	void	3	1	24	s0|ra	
+0x80025E98	28	func_80025E98	low	1	void	0	0	0		leaf|orphan
+0x80025EB4	144	func_80025EB4	verified	1	u32	2	1	32	s0|s1|s2|ra	
+0x80025F44	104	func_80025F44	verified	1	void	2	1	24	s0|ra	
+0x80025FAC	44	func_80025FAC	medium	1	void	0	2	24	s0|ra	orphan
+0x80025FD8	88	func_80025FD8	verified	1	void	1	5	24	s0|ra	
+0x80026030	80	func_80026030	medium	1	u32	0	4	24	s0|ra	orphan
+0x80026080	48	func_80026080	verified	1	void	1	1	24	ra	
+0x800260B0	584	func_800260B0	high	0	u32	1	0	0		leaf
+0x800262F8	64	func_800262F8	verified	1	u32	1	1	24	ra	
+0x80026338	64	func_80026338	verified	1	u32	3	1	24	ra	
+0x80026378	76	func_80026378	high	1	u32	2	0	0		leaf
+0x800263C4	36	func_800263C4	high	1	u32	17	0	0		leaf
+0x800263E8	68	func_800263E8	low	2	u32	0	0	0		leaf|orphan
+0x8002642C	112	func_8002642C	high	0	u32	1	0	0		leaf
+0x8002649C	1356	func_8002649C	verified	0	u32	1	40	56	s0|s1|s2|s3|s4|ra	
+0x800269E8	240	func_800269E8	verified	1	u32	1	3	40	s0|s1|s2|s3|s4|ra	
+0x80026AD8	456	func_80026AD8	verified	0	u32	1	1	48	s0|s1|s2|s3|s4|s5|ra	
+0x80026CA0	368	func_80026CA0	verified	0	u32	1	1	48	s0|s1|s2|s3|s4|s5|ra	
+0x80026E10	64	func_80026E10	high	1	u32	1	0	0		leaf
+0x80026E50	72	func_80026E50	verified	1	u32	1	0	24	ra	indirect
+0x80026E98	148	func_80026E98	high	1	u32	0	4	24	s0|ra	addr_taken
+0x80026F2C	88	func_80026F2C	verified	1	u32	1	2	24	s0|ra	indirect
+0x80026F84	60	func_80026F84	high	1	u32	1	0	0		leaf
+0x80026FC0	48	func_80026FC0	high	1	u32	1	0	0		leaf
+0x80026FF0	8	func_80026FF0	low	0	u32	0	0	0		leaf|orphan
+0x80026FF8	40	func_80026FF8	high	1	u32	1	1	0		leaf
+0x80027020	88	func_80027020	high	1	u32	1	0	0		leaf
+0x80027078	8	func_80027078	low	1	void	0	0	0		leaf|orphan
+0x80027080	236	func_80027080	high	1	u32	0	2	24	s0|ra	addr_taken
+0x8002716C	64	func_8002716C	verified	1	u32	1	1	24	ra	
+0x800271AC	152	func_800271AC	high	1	u32	0	2	24	s0|ra	addr_taken
+0x80027244	620	func_80027244	high	1	u32	0	2	32	s0|s1|ra	addr_taken
+0x800274B0	52	func_800274B0	high	1	u32	1	0	0		leaf
+0x800274E4	24	func_800274E4	low	2	u32	0	0	0		leaf|orphan
+0x800274FC	52	func_800274FC	high	1	u32	1	0	0		leaf
+0x80027530	24	func_80027530	low	2	u32	0	0	0		leaf|orphan
+0x80027548	52	func_80027548	high	1	u32	1	0	0		leaf
+0x8002757C	24	func_8002757C	low	2	u32	0	0	0		leaf|orphan
+0x80027594	580	func_80027594	verified	1	u32	1	2	32	s0|s1|s2|ra	
+0x800277D8	84	func_800277D8	high	1	u32	1	0	0		leaf
+0x8002782C	24	func_8002782C	low	3	u32	0	0	0		leaf|orphan
+0x80027850	8	func_80027850	low	0	void	0	0	0		leaf|orphan
+0x80027858	320	func_80027858	verified	1	u32	1	1	32	s0|s1|ra	
+0x80027998	72	func_80027998	high	1	u32	1	0	0		leaf
+0x800279E0	348	func_800279E0	low	1	u32	0	0	0		leaf|orphan
+0x80027B3C	60	func_80027B3C	low	1	u32	0	0	0		leaf|orphan
+0x80027B78	304	func_80027B78	low	4	u32	0	0	0		leaf|orphan
+0x80027CA8	8	func_80027CA8	high	0	void	0	0	0		leaf|addr_taken
+0x80027CB0	188	func_80027CB0	verified	1	u32	1	0	24	ra	indirect
+0x80027D6C	36	func_80027D6C	high	0	u32	1	0	0		leaf
+0x80027D90	912	func_80027D90	verified	0	u32	1	5	40	s0|s1|s2|ra	
+0x80028120	48	func_80028120	high	0	u32	1	0	0		leaf
+0x80028150	28	func_80028150	high	0	u32	1	0	0		leaf
+0x8002816C	932	func_8002816C	verified	0	u32	1	3	32	s0|s1|s2|ra	
+0x80028510	580	func_80028510	verified	2	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x80028754	64	func_80028754	high	2	u32	2	0	0		leaf
+0x80028794	1580	func_80028794	verified	0	u32	1	3	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80028DC0	88	func_80028DC0	high	2	u32	15	0	0		leaf
+0x80028E18	100	func_80028E18	high	0	u32	1	0	0		leaf
+0x80028E7C	8	func_80028E7C	low	0	void	0	0	0		leaf|orphan
+0x80028E84	720	func_80028E84	verified	2	u32	1	6	32	s0|s1|ra	
+0x80029154	432	func_80029154	verified	1	u32	1	4	48	s0|s1|s2|s3|s4|s5|ra	
+0x80029304	560	func_80029304	verified	0	u32	2	2	48	s0|s1|s2|s3|s4|s5|ra	
+0x80029534	188	func_80029534	high	0	u32	1	0	0		leaf
+0x800295F0	48	func_800295F0	high	1	u32	1	0	0		leaf
+0x80029620	144	func_80029620	low	1	u32	0	0	0		leaf|orphan
+0x800296B0	64	func_800296B0	high	1	u32	1	0	0		leaf
+0x800296F0	140	func_800296F0	verified	1	u32	1	2	24	s0|ra	
+0x8002977C	64	func_8002977C	high	0	u32	3	0	0		leaf
+0x800297BC	320	func_800297BC	verified	2	u32	2	2	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x800298FC	168	func_800298FC	high	3	u32	1	0	0		leaf
+0x800299A4	12	func_800299A4	low	3	void	0	0	0		leaf|orphan
+0x800299B0	24	func_800299B0	high	3	u32	1	0	0		leaf
+0x800299C8	8	func_800299C8	low	3	void	0	0	0		leaf|orphan
+0x800299D0	412	func_800299D0	verified	0	u32	1	3	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80029B6C	140	func_80029B6C	high	1	u32	1	0	0		leaf
+0x80029BF8	292	func_80029BF8	low	4	u32	0	0	0		leaf|orphan
+0x80029D1C	588	func_80029D1C	verified	0	u32	1	1	24	s0|ra	
+0x80029F68	140	func_80029F68	verified	1	u32	1	1	24	s0|ra	
+0x80029FF4	76	func_80029FF4	verified	2	u32	1	1	24	ra	
+0x8002A040	92	func_8002A040	high	1	u32	1	0	0		leaf
+0x8002A09C	24	func_8002A09C	low	0	u32	0	0	0		leaf|orphan
+0x8002A0B4	200	func_8002A0B4	verified	2	u32	1	3	32	s0|s1|s2|ra	
+0x8002A17C	76	func_8002A17C	verified	2	u32	1	1	24	ra	
+0x8002A1C8	164	func_8002A1C8	verified	2	u32	1	0	32	s0|s1|ra	indirect
+0x8002A26C	76	func_8002A26C	verified	1	u32	1	1	24	ra	
+0x8002A2B8	64	func_8002A2B8	verified	1	u32	1	1	24	ra	
+0x8002A2F8	52	func_8002A2F8	verified	1	u32	1	1	24	s0|ra	
+0x8002A32C	88	func_8002A32C	verified	1	u32	1	2	24	s0|ra	
+0x8002A384	120	func_8002A384	verified	1	u32	1	2	32	s0|s1|ra	
+0x8002A3FC	152	func_8002A3FC	verified	1	u32	1	2	24	s0|ra	
+0x8002A494	108	func_8002A494	verified	1	u32	1	3	24	s0|ra	
+0x8002A500	136	func_8002A500	verified	1	u32	1	2	24	s0|ra	
+0x8002A588	472	func_8002A588	verified	0	u32	1	16	40	s0|s1|s2|s3|ra	
+0x8002A760	152	func_8002A760	verified	1	u32	2	3	24	s0|ra	
+0x8002A7F8	36	func_8002A7F8	verified	1	u32	2	1	24	ra	
+0x8002A81C	116	func_8002A81C	verified	1	u32	2	2	32	s0|s1|ra	
+0x8002A890	68	func_8002A890	verified	1	u32	1	2	24	ra	
+0x8002A8D4	68	func_8002A8D4	verified	1	void	1	2	24	s0|ra	
+0x8002A918	92	func_8002A918	verified	1	u32	1	2	24	ra	
+0x8002A974	416	func_8002A974	verified	1	u32	1	5	32	s0|s1|s2|ra	
+0x8002AB14	360	func_8002AB14	medium	0	u32	0	3	40	s0|s1|s2|s3|s4|ra	orphan
+0x8002AC7C	304	func_8002AC7C	verified	1	u32	1	3	40	s0|s1|s2|s3|ra	
+0x8002ADAC	284	func_8002ADAC	verified	3	u32	1	6	40	s0|s1|s2|s3|ra	
+0x8002AEC8	52	func_8002AEC8	high	2	u32	1	0	0		leaf
+0x8002AEFC	312	func_8002AEFC	verified	3	u32	3	6	40	s0|s1|s2|s3|ra	
+0x8002B034	276	func_8002B034	verified	2	u32	12	3	32	s0|s1|s2|ra	
+0x8002B148	132	func_8002B148	verified	2	u32	1	3	32	s0|s1|s2|ra	
+0x8002B1CC	156	func_8002B1CC	verified	2	u32	1	4	32	s0|s1|s2|ra	
+0x8002B268	52	func_8002B268	medium	2	u32	1	1	24	ra	orphan
+0x8002B29C	164	func_8002B29C	verified	2	u32	1	4	32	s0|s1|s2|ra	
+0x8002B340	136	func_8002B340	high	2	u32	1	0	0		leaf
+0x8002B3C8	12	func_8002B3C8	low	2	u32	0	0	0		leaf|orphan
+0x8002B3D4	216	func_8002B3D4	verified	3	u32	2	5	40	s0|s1|s2|s3|s4|ra	
+0x8002B4AC	368	func_8002B4AC	verified	2	u32	2	6	48	s0|s1|s2|s3|s4|s5|ra	
+0x8002B61C	652	func_8002B61C	medium	2	u32	1	7	64	s0|s1|s2|s3|s4|s5|s6|s7|ra	orphan
+0x8002B8A8	436	func_8002B8A8	medium	4	u32	1	4	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x8002BA5C	180	func_8002BA5C	verified	1	u32	1	2	40	s0|s1|s2|s3|ra	
+0x8002BB10	144	func_8002BB10	verified	3	u32	2	1	32	s0|s1|ra	
+0x8002BBA0	160	func_8002BBA0	high	3	u32	1	0	0		leaf
+0x8002BC40	24	func_8002BC40	low	0	u32	0	0	0		leaf|orphan
+0x8002BC58	532	func_8002BC58	verified	4	u32	6	8	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8002BE6C	348	func_8002BE6C	verified	4	u32	3	4	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8002BFC8	68	func_8002BFC8	verified	2	u32	1	2	24	ra	
+0x8002C00C	288	func_8002C00C	verified	2	u32	1	5	32	s0|s1|s2|ra	
+0x8002C12C	128	func_8002C12C	verified	2	u32	1	4	40	s0|s1|s2|s3|ra	
+0x8002C1AC	304	func_8002C1AC	verified	2	u32	1	5	32	s0|s1|s2|ra	
+0x8002C2DC	208	func_8002C2DC	verified	2	u32	4	4	40	s0|s1|s2|s3|ra	
+0x8002C3AC	248	func_8002C3AC	verified	2	u32	3	4	32	s0|s1|s2|ra	
+0x8002C4A4	436	func_8002C4A4	verified	2	u32	2	5	40	s0|s1|s2|s3|ra	
+0x8002C658	32	func_8002C658	verified	1	void	3	1	24	ra	
+0x8002C678	68	func_8002C678	verified	1	u32	1	2	24	ra	
+0x8002C6BC	508	func_8002C6BC	verified	2	u32	2	4	48	s0|s1|s2|s3|s4|s5|ra	
+0x8002C8B8	336	func_8002C8B8	verified	1	u32	2	4	40	s0|s1|s2|s3|s4|ra	
+0x8002CA08	84	func_8002CA08	verified	1	u32	1	1	32	s0|s1|ra	
+0x8002CA5C	264	func_8002CA5C	verified	1	u32	1	1	48	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8002CB64	216	func_8002CB64	verified	1	u32	1	1	40	s0|s1|s2|s3|ra	
+0x8002CC3C	200	func_8002CC3C	high	1	u32	2	0	0		leaf
+0x8002CD04	136	func_8002CD04	high	1	u32	0	5	32	s0|s1|s2|ra	addr_taken
+0x8002CD8C	8	func_8002CD8C	low	0	void	0	0	0		leaf|orphan
+0x8002CD94	96	func_8002CD94	high	2	u32	6	0	0		leaf
+0x8002CDF4	132	func_8002CDF4	verified	1	u32	1	1	32	s0|s1|s2|ra	
+0x8002CE78	520	func_8002CE78	high	2	u32	1	0	0		leaf
+0x8002D080	44	func_8002D080	low	0	u32	0	0	0		leaf|orphan
+0x8002D0AC	124	func_8002D0AC	verified	1	u32	2	1	32	s0|s1|ra	
+0x8002D128	72	func_8002D128	verified	0	void	1	6	24	ra	
+0x8002D170	340	func_8002D170	verified	0	u32	1	4	48	s0|s1|s2|s3|s4|s5|ra	
+0x8002D2C4	84	func_8002D2C4	high	0	u32	1	0	0		leaf
+0x8002D318	20	func_8002D318	high	0	u32	1	0	0		leaf
+0x8002D32C	456	func_8002D32C	verified	1	u32	6	2	40	s0|s1|s2|s3|ra	
+0x8002D4F4	20	func_8002D4F4	high	0	u32	1	0	0		leaf
+0x8002D508	100	func_8002D508	high	0	u32	1	0	0		leaf
+0x8002D56C	208	func_8002D56C	medium	1	u32	0	7	24	s0|ra	orphan
+0x8002D63C	152	func_8002D63C	low	1	u32	1	0	0		leaf|orphan
+0x8002D6D4	104	func_8002D6D4	medium	1	u32	1	2	24	s0|ra	orphan
+0x8002D73C	100	func_8002D73C	medium	1	u32	1	3	24	s0|ra	orphan
+0x8002D7A0	88	func_8002D7A0	medium	1	u32	1	1	24	ra	orphan|indirect
+0x8002D7F8	108	func_8002D7F8	medium	1	u32	4	2	24	s0|ra	orphan
+0x8002D864	108	func_8002D864	medium	2	u32	1	2	24	s0|ra	orphan
+0x8002D8D0	104	func_8002D8D0	verified	0	u32	2	2	24	ra	
+0x8002D938	120	func_8002D938	medium	1	u32	1	2	24	s0|ra	orphan
+0x8002D9B0	88	func_8002D9B0	medium	1	u32	1	1	24	ra	orphan|indirect
+0x8002DA08	44	func_8002DA08	high	1	u32	1	0	0		leaf
+0x8002DA34	56	func_8002DA34	verified	0	u32	2	1	24	ra	
+0x8002DA6C	144	func_8002DA6C	verified	0	u32	1	1	24	ra	
+0x8002DAFC	356	func_8002DAFC	low	1	u32	1	1	0	ra	orphan
+0x8002DC60	132	func_8002DC60	verified	1	u32	3	1	32	s0|s1|ra	
+0x8002DCE4	136	func_8002DCE4	verified	1	u32	6	1	32	s0|s1|ra	
+0x8002DD6C	332	func_8002DD6C	high	0	u32	1	7	0	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8002DEB8	84	func_8002DEB8	verified	0	u32	1	1	32	s0|s1|ra	
+0x8002DF0C	492	func_8002DF0C	verified	0	u32	1	5	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8002E0F8	40	func_8002E0F8	verified	0	u32	1	1	24	ra	
+0x8002E120	348	func_8002E120	verified	1	u32	4	5	40	s0|s1|s2|s3|s4|ra	
+0x8002E27C	928	func_8002E27C	verified	4	u32	1	4	40	s0|s1|s2|s3|s4|ra	
+0x8002E61C	180	func_8002E61C	verified	2	u32	2	2	32	s0|s1|ra	
+0x8002E6D0	264	func_8002E6D0	medium	3	u32	0	2	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x8002E7D8	168	func_8002E7D8	low	3	u32	1	0	0		leaf|orphan
+0x8002E880	188	func_8002E880	medium	4	u32	1	2	40	s0|s1|s2|s3|ra	orphan
+0x8002E93C	212	func_8002E93C	high	1	u32	2	0	0		leaf
+0x8002EA10	296	func_8002EA10	high	2	u32	1	0	0		leaf
+0x8002EB38	288	func_8002EB38	verified	1	u32	1	9	24	s0|ra	
+0x8002EC58	104	func_8002EC58	verified	1	u32	1	1	24	ra	
+0x8002ECC0	192	func_8002ECC0	verified	1	u32	2	3	24	s0|ra	
+0x8002ED80	96	func_8002ED80	verified	1	u32	1	2	24	ra	
+0x8002EDE0	136	func_8002EDE0	verified	1	u32	1	2	24	s0|ra	
+0x8002EE68	108	func_8002EE68	verified	1	u32	1	1	24	ra	
+0x8002EED4	80	func_8002EED4	verified	1	u32	3	2	24	s0|ra	
+0x8002EF24	96	func_8002EF24	verified	1	u32	1	1	24	ra	
+0x8002EF84	40	func_8002EF84	high	1	u32	1	0	0		leaf
+0x8002EFAC	312	func_8002EFAC	verified	1	u32	1	8	24	s0|ra	
+0x8002F0E4	104	func_8002F0E4	verified	1	u32	1	1	24	ra	
+0x8002F14C	48	func_8002F14C	high	1	u32	2	0	0		leaf
+0x8002F17C	148	func_8002F17C	verified	1	u32	2	3	32	s0|s1|ra	
+0x8002F210	56	func_8002F210	verified	1	u32	1	1	24	ra	
+0x8002F248	112	func_8002F248	verified	1	u32	1	2	32	s0|s1|ra	
+0x8002F2B8	104	func_8002F2B8	verified	1	u32	1	1	24	ra	
+0x8002F320	64	func_8002F320	high	1	u32	1	0	0		leaf
+0x8002F360	28	func_8002F360	low	0	u32	0	0	0		leaf|orphan
+0x8002F37C	44	func_8002F37C	high	0	u32	2	1	0	ra	
+0x8002F3A8	40	func_8002F3A8	high	2	u32	3	0	0		leaf
+0x8002F3D0	44	func_8002F3D0	high	2	u32	6	0	0		leaf
+0x8002F3FC	48	func_8002F3FC	high	2	u32	7	0	0		leaf
+0x8002F42C	40	func_8002F42C	low	0	u32	0	1	0	ra	orphan
+0x8002F454	148	func_8002F454	high	1	u32	6	0	0		leaf
+0x8002F4E8	40	func_8002F4E8	low	4	u32	0	0	0		leaf|orphan
+0x8002F510	56	func_8002F510	verified	1	u32	3	1	24	ra	
+0x8002F548	260	func_8002F548	verified	1	u32	1	6	32	s0|s1|ra	
+0x8002F64C	212	func_8002F64C	low	1	u32	3	2	0	s0|s1|s2|s3|ra	orphan
+0x8002F720	32	func_8002F720	medium	0	void	0	1	24	ra	orphan
+0x8002F740	32	func_8002F740	medium	0	void	0	1	24	ra	orphan
+0x8002F760	32	func_8002F760	medium	0	void	0	1	24	ra	orphan
+0x8002F780	584	func_8002F780	verified	4	u32	3	2	48	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8002F9C8	760	func_8002F9C8	medium	1	u32	1	5	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x8002FCC0	56	func_8002FCC0	verified	3	u32	1	1	32	ra	
+0x8002FCF8	52	func_8002FCF8	verified	3	u32	1	1	32	ra	
+0x8002FD2C	56	func_8002FD2C	verified	3	u32	1	1	32	ra	
+0x8002FD64	180	func_8002FD64	verified	1	u32	2	6	32	s0|s1|ra	
+0x8002FE18	92	func_8002FE18	high	2	u32	2	0	0		leaf
+0x8002FE74	232	func_8002FE74	verified	1	u32	5	1	40	s0|s1|s2|s3|s4|ra	
+0x8002FF5C	80	func_8002FF5C	high	3	u32	9	0	0		leaf
+0x8002FFAC	8	func_8002FFAC	low	0	u32	0	0	0		leaf|orphan
+0x8002FFB4	100	func_8002FFB4	high	3	u32	3	0	0		leaf
+0x80030018	8	func_80030018	low	0	u32	0	0	0		leaf|orphan
+0x80030020	556	func_80030020	high	1	u32	1	8	0	s0|s1|s2|ra	
+0x8003024C	620	func_8003024C	verified	1	u32	1	3	40	s0|s1|s2|s3|ra	break
+0x800304B8	384	func_800304B8	high	1	u32	1	3	0	s0|s1|ra	
+0x80030638	288	func_80030638	verified	1	u32	1	4	32	s0|s1|ra	
+0x80030758	516	func_80030758	verified	2	u32	3	6	40	s0|s1|s2|s3|ra	
+0x8003095C	196	func_8003095C	verified	1	u32	2	1	24	ra	
+0x80030A20	128	func_80030A20	medium	0	u32	0	2	40	s0|s1|ra	orphan
+0x80030AA0	420	func_80030AA0	verified	4	u32	1	2	48	s0|s1|s2|s3|s4|s5|ra	
+0x80030C44	452	func_80030C44	medium	1	u32	1	4	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x80030E08	140	func_80030E08	verified	1	u32	1	2	24	s0|ra	
+0x80030E94	284	func_80030E94	verified	1	u32	1	11	24	s0|ra	
+0x80030FB0	64	func_80030FB0	medium	0	u32	0	1	24	ra	orphan
+0x80030FF0	112	func_80030FF0	medium	0	u32	0	1	32	s0|s1|ra	orphan
+0x80031060	40	func_80031060	verified	1	void	1	1	24	ra	
+0x80031088	184	func_80031088	verified	1	u32	1	3	32	s0|s1|s2|ra	
+0x80031140	136	func_80031140	medium	0	u32	0	2	40	s0|s1|s2|ra	orphan
+0x800311C8	528	func_800311C8	medium	1	u32	1	4	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x800313D8	192	func_800313D8	verified	1	u32	2	3	32	s0|s1|s2|ra	
+0x80031498	300	func_80031498	verified	1	u32	2	4	32	s0|s1|s2|ra	
+0x800315C4	196	func_800315C4	high	1	u32	1	1	0	ra	
+0x80031688	972	func_80031688	verified	1	u32	2	7	40	s0|s1|s2|ra	
+0x80031A54	220	func_80031A54	verified	1	u32	1	1	32	s0|s1|ra	
+0x80031B30	184	func_80031B30	high	3	u32	1	0	0		leaf
+0x80031BE8	108	func_80031BE8	low	3	u32	0	0	0		leaf|orphan
+0x80031C54	304	func_80031C54	verified	1	u32	2	4	40	s0|s1|s2|s3|s4|ra	
+0x80031D84	804	func_80031D84	verified	1	u32	1	6	40	s0|s1|s2|s3|ra	
+0x800320A8	196	func_800320A8	verified	1	u32	1	2	32	s0|s1|ra	
+0x8003216C	700	func_8003216C	verified	2	u32	1	8	40	s0|s1|s2|s3|s4|ra	
+0x80032428	244	func_80032428	verified	1	u32	1	4	40	s0|s1|s2|s3|ra	
+0x8003251C	224	func_8003251C	verified	1	u32	1	4	32	s0|s1|s2|ra	
+0x800325FC	400	func_800325FC	verified	2	u32	1	2	32	s0|s1|ra	
+0x8003278C	604	func_8003278C	verified	1	u32	1	16	32	s0|s1|ra	
+0x800329E8	380	func_800329E8	verified	4	u32	9	2	48	s0|s1|s2|s3|s4|s5|ra	
+0x80032B64	56	func_80032B64	verified	2	u32	1	1	32	ra	
+0x80032B9C	56	func_80032B9C	verified	2	u32	1	1	32	ra	
+0x80032BD4	56	func_80032BD4	verified	2	u32	1	1	32	ra	
+0x80032C0C	56	func_80032C0C	verified	2	u32	1	1	32	ra	
+0x80032C44	56	func_80032C44	verified	2	u32	1	1	32	ra	
+0x80032C7C	56	func_80032C7C	verified	2	u32	1	1	32	ra	
+0x80032CB4	56	func_80032CB4	verified	2	u32	1	1	32	ra	
+0x80032CEC	56	func_80032CEC	verified	2	u32	1	1	32	ra	
+0x80032D24	116	func_80032D24	medium	0	u32	1	1	32	s0|s1|ra	orphan
+0x80032D98	76	func_80032D98	medium	0	u32	0	1	24	s0|ra	orphan
+0x80032DE4	244	func_80032DE4	high	1	u32	2	0	0		leaf
+0x80032ED8	68	func_80032ED8	verified	1	u32	1	1	24	ra	
+0x80032F1C	148	func_80032F1C	verified	2	u32	1	1	32	ra	
+0x80032FB0	204	func_80032FB0	verified	1	u32	2	5	32	s0|s1|ra	
+0x8003307C	460	func_8003307C	verified	1	u32	1	8	40	s0|s1|s2|ra	
+0x80033248	180	func_80033248	verified	1	u32	2	6	32	s0|s1|ra	
+0x800332FC	180	func_800332FC	verified	1	u32	1	3	32	s0|s1|s2|ra	
+0x800333B0	856	func_800333B0	verified	1	u32	1	11	40	s0|s1|s2|s3|ra	
+0x80033708	764	func_80033708	verified	0	u32	1	8	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80033A04	144	func_80033A04	verified	0	u32	1	1	40	s0|s1|s2|s3|ra	
+0x80033A94	276	func_80033A94	verified	2	u32	1	9	32	s0|s1|ra	
+0x80033BA8	112	func_80033BA8	verified	2	u32	1	1	24	ra	
+0x80033C18	476	func_80033C18	verified	2	u32	1	2	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x80033DF4	60	func_80033DF4	high	1	u32	1	0	0		leaf
+0x80033E30	64	func_80033E30	verified	1	void	4	2	24	s0|ra	
+0x80033E70	96	func_80033E70	verified	1	u32	3	3	24	s0|ra	
+0x80033ED0	180	func_80033ED0	verified	1	u32	1	3	40	s0|s1|s2|s3|ra	
+0x80033F84	64	func_80033F84	verified	1	u32	1	2	24	ra	
+0x80033FC4	8	func_80033FC4	high	0	void	1	0	0		leaf
+0x80033FCC	8	func_80033FCC	high	0	void	1	0	0		leaf
+0x80033FD4	144	func_80033FD4	high	2	u32	1	0	0		leaf
+0x80034064	28	func_80034064	low	2	u32	0	0	0		leaf|orphan
+0x80034080	32	func_80034080	high	1	u32	1	0	0		leaf
+0x800340A0	8	func_800340A0	low	0	u32	0	0	0		leaf|orphan
+0x800340A8	16	func_800340A8	high	2	u32	1	0	0		leaf
+0x800340B8	32	func_800340B8	low	1	u32	0	0	0		leaf|orphan
+0x800340D8	8	func_800340D8	low	0	u32	0	0	0		leaf|orphan
+0x800340E0	8	func_800340E0	low	0	void	0	0	0		leaf|orphan
+0x800340E8	72	func_800340E8	verified	1	u32	4	1	24	ra	
+0x80034130	84	func_80034130	high	1	u32	1	1	0	s0|s1|ra	
+0x80034184	80	func_80034184	verified	1	void	1	1	24	s0|ra	
+0x800341D4	120	func_800341D4	medium	1	u32	0	1	24	s0|ra	orphan
+0x8003424C	124	func_8003424C	high	2	u32	1	0	0		leaf
+0x800342C8	320	func_800342C8	verified	2	u32	1	2	32	s0|s1|ra	
+0x80034408	80	func_80034408	low	0	u32	0	1	0	ra	orphan
+0x80034458	96	func_80034458	verified	1	u32	1	1	24	ra	
+0x800344B8	72	func_800344B8	verified	1	u32	1	2	24	ra	
+0x80034500	48	func_80034500	high	1	u32	1	0	0		leaf
+0x80034530	160	func_80034530	high	1	u32	1	0	0		leaf
+0x800345D0	48	func_800345D0	high	1	u32	2	0	0		leaf
+0x80034600	8	func_80034600	high	0	void	1	0	0		leaf
+0x80034608	184	func_80034608	verified	1	u32	1	2	24	s0|ra	
+0x800346C0	8	func_800346C0	high	0	void	1	0	0		leaf
+0x800346C8	28	func_800346C8	high	1	u32	1	0	0		leaf
+0x800346E4	60	func_800346E4	low	1	u32	0	0	0		leaf|orphan|indirect
+0x80034720	12	func_80034720	high	1	u32	0	0	0		leaf|addr_taken
+0x8003472C	12	func_8003472C	high	1	u32	0	0	0		leaf|addr_taken
+0x80034738	12	func_80034738	high	1	u32	0	0	0		leaf|addr_taken
+0x80034744	16	func_80034744	high	1	u32	0	0	0		leaf|addr_taken
+0x80034754	68	func_80034754	verified	0	u32	1	2	24	s0|ra	
+0x80034798	184	func_80034798	high	1	u32	5	0	0		leaf
+0x80034850	120	func_80034850	high	0	u32	1	1	0	s0|s1|s2|ra	
+0x800348C8	476	func_800348C8	verified	1	u32	2	11	32	s0|s1|ra	indirect
+0x80034AA4	8	func_80034AA4	high	0	void	0	0	0		leaf|addr_taken
+0x80034AAC	104	func_80034AAC	verified	1	u32	1	3	24	s0|ra	
+0x80034B14	80	func_80034B14	verified	1	u32	1	2	24	ra	
+0x80034B64	128	func_80034B64	verified	1	u32	1	4	24	s0|ra	
+0x80034BE4	72	func_80034BE4	verified	1	u32	1	2	24	s0|ra	
+0x80034C2C	44	func_80034C2C	verified	1	void	12	2	24	s0|ra	
+0x80034C58	96	func_80034C58	verified	1	u32	1	3	24	s0|ra	
+0x80034CB8	72	func_80034CB8	verified	1	u32	1	2	24	s0|ra	
+0x80034D00	88	func_80034D00	verified	1	u32	2	3	24	s0|ra	
+0x80034D58	112	func_80034D58	verified	1	u32	1	4	24	s0|ra	
+0x80034DC8	100	func_80034DC8	high	1	u32	1	0	0		leaf
+0x80034E2C	108	func_80034E2C	high	1	u32	6	0	0		leaf
+0x80034E98	8	func_80034E98	low	0	u32	0	0	0		leaf|orphan
+0x80034EA0	8	func_80034EA0	low	0	void	0	0	0		leaf|orphan
+0x80034EA8	44	func_80034EA8	high	1	u32	1	0	0		leaf
+0x80034ED4	452	func_80034ED4	verified	1	u32	1	3	32	s0|ra	
+0x80035098	60	func_80035098	verified	1	u32	7	0	24	ra	indirect
+0x800350D4	116	func_800350D4	verified	0	u32	1	1	32	s0|s1|ra	
+0x80035148	424	func_80035148	verified	0	u32	1	5	48	s0|s1|s2|s3|s4|s5|ra	
+0x800352F0	876	func_800352F0	high	1	u32	1	2	0	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8003565C	140	func_8003565C	high	3	u32	1	0	0		leaf
+0x800356E8	8	func_800356E8	low	0	u32	0	0	0		leaf|orphan
+0x800356F0	120	func_800356F0	high	1	u32	1	0	0		leaf
+0x80035768	164	func_80035768	verified	1	u32	1	1	24	s0|ra	
+0x8003580C	20	func_8003580C	high	1	u32	1	0	0		leaf
+0x80035820	148	func_80035820	high	0	u32	1	1	0	s0|ra	
+0x800358B4	144	func_800358B4	high	0	u32	0	2	24	ra	addr_taken
+0x80035944	144	func_80035944	high	0	u32	0	2	24	ra	addr_taken
+0x800359D4	144	func_800359D4	high	0	u32	0	2	24	ra	addr_taken
+0x80035A64	144	func_80035A64	high	0	u32	0	2	24	ra	addr_taken
+0x80035AF4	144	func_80035AF4	high	0	u32	0	2	24	ra	addr_taken
+0x80035B84	144	func_80035B84	high	0	u32	0	2	24	ra	addr_taken
+0x80035C14	92	func_80035C14	high	1	u32	0	2	24	ra	addr_taken
+0x80035C70	44	func_80035C70	high	0	u32	0	1	24	ra	addr_taken
+0x80035C9C	28	func_80035C9C	low	0	u32	0	0	0		leaf|orphan
+0x80035CB8	100	func_80035CB8	high	2	u32	32	0	0		leaf
+0x80035D1C	144	func_80035D1C	high	3	u32	1	0	0		leaf
+0x80035DAC	40	func_80035DAC	high	1	void	0	1	24	ra	addr_taken
+0x80035DD4	40	func_80035DD4	high	1	void	0	1	24	ra	addr_taken
+0x80035DFC	948	func_80035DFC	verified	2	u32	23	17	32	s0|s1|ra	
+0x800361B0	96	func_800361B0	verified	2	u32	1	1	24	ra	
+0x80036210	60	func_80036210	verified	2	u32	1	1	24	ra	
+0x8003624C	60	func_8003624C	verified	2	u32	1	1	24	ra	
+0x80036288	60	func_80036288	verified	2	u32	1	1	24	ra	
+0x800362C4	52	func_800362C4	verified	2	u32	1	1	24	ra	
+0x800362F8	56	func_800362F8	verified	2	u32	12	0	24	ra	indirect
+0x80036330	40	func_80036330	high	1	void	0	1	24	ra	addr_taken
+0x80036358	40	func_80036358	high	1	void	0	1	24	ra	addr_taken
+0x80036380	40	func_80036380	high	1	void	0	1	24	ra	addr_taken
+0x800363A8	40	func_800363A8	high	1	void	0	1	24	ra	addr_taken
+0x800363D0	40	func_800363D0	high	1	void	0	1	24	ra	addr_taken
+0x800363F8	40	func_800363F8	high	1	void	0	1	24	ra	addr_taken
+0x80036420	40	func_80036420	high	1	void	0	1	24	ra	addr_taken
+0x80036448	40	func_80036448	high	1	void	0	1	24	ra	addr_taken
+0x80036470	40	func_80036470	high	1	void	0	1	24	ra	addr_taken
+0x80036498	40	func_80036498	high	1	void	0	1	24	ra	addr_taken
+0x800364C0	40	func_800364C0	high	1	void	0	1	24	ra	addr_taken
+0x800364E8	40	func_800364E8	high	1	void	0	1	24	ra	addr_taken
+0x80036510	40	func_80036510	high	1	void	0	1	24	ra	addr_taken
+0x80036538	92	func_80036538	verified	3	u32	1	1	24	ra	
+0x80036594	200	func_80036594	verified	2	u32	1	2	32	s0|s1|s2|ra	
+0x8003665C	500	func_8003665C	verified	2	u32	1	2	32	s0|s1|s2|ra	
+0x80036850	60	func_80036850	verified	2	u32	1	1	24	ra	
+0x8003688C	92	func_8003688C	verified	2	u32	1	1	24	ra	
+0x800368E8	360	func_800368E8	verified	2	u32	1	3	32	s0|s1|ra	
+0x80036A50	240	func_80036A50	verified	2	u32	1	1	24	ra	
+0x80036B40	60	func_80036B40	verified	2	u32	1	1	24	ra	
+0x80036B7C	60	func_80036B7C	verified	2	u32	1	1	24	ra	
+0x80036BB8	40	func_80036BB8	high	1	void	0	1	24	ra	addr_taken
+0x80036BE0	40	func_80036BE0	high	1	void	0	1	24	ra	addr_taken
+0x80036C08	40	func_80036C08	high	1	void	0	1	24	ra	addr_taken
+0x80036C30	40	func_80036C30	high	1	void	0	1	24	ra	addr_taken
+0x80036C58	40	func_80036C58	high	1	void	0	1	24	ra	addr_taken
+0x80036C80	40	func_80036C80	high	1	void	0	1	24	ra	addr_taken
+0x80036CA8	40	func_80036CA8	high	1	void	0	1	24	ra	addr_taken
+0x80036CD0	40	func_80036CD0	high	1	void	0	1	24	ra	addr_taken
+0x80036CF8	288	func_80036CF8	verified	1	u32	1	1	24	ra	
+0x80036E18	84	func_80036E18	verified	0	u32	1	1	32	s0|s1|ra	
+0x80036E6C	132	func_80036E6C	medium	0	u32	0	2	40	s0|s1|ra	orphan
+0x80036EF0	116	func_80036EF0	low	0	u32	0	2	0	s0|ra	orphan
+0x80036F64	112	func_80036F64	medium	0	u32	0	2	32	s0|ra	orphan
+0x80036FD4	428	func_80036FD4	medium	0	u32	0	2	48	s0|s1|s2|s3|s4|ra	orphan
+0x80037180	128	func_80037180	medium	0	u32	0	2	40	s0|s1|ra	orphan
+0x80037200	100	func_80037200	medium	0	u32	0	1	40	s0|s1|ra	orphan
+0x80037264	112	func_80037264	medium	0	u32	0	2	32	s0|ra	orphan
+0x800372D4	100	func_800372D4	medium	0	u32	0	1	40	s0|s1|ra	orphan
+0x80037338	112	func_80037338	medium	0	u32	0	2	32	s0|ra	orphan
+0x800373A8	212	func_800373A8	medium	0	u32	0	2	48	s0|s1|s2|s3|s4|ra	orphan
+0x8003747C	80	func_8003747C	low	0	u32	0	1	0	ra	orphan
+0x800374CC	32	func_800374CC	low	0	u32	0	0	0		leaf|orphan
+0x800374EC	180	func_800374EC	verified	4	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x800375A0	196	func_800375A0	verified	3	u32	1	2	32	s0|s1|s2|ra	
+0x80037664	84	func_80037664	high	2	u32	1	0	0		leaf
+0x800376B8	12	func_800376B8	low	0	u32	0	0	0		leaf|orphan
+0x800376C4	24	func_800376C4	low	2	u32	0	0	0		leaf|orphan
+0x800376DC	12	func_800376DC	low	0	u32	0	0	0		leaf|orphan
+0x800376E8	24	func_800376E8	low	2	u32	0	0	0		leaf|orphan
+0x80037700	12	func_80037700	low	0	u32	0	0	0		leaf|orphan
+0x8003770C	8	func_8003770C	low	0	u32	0	0	0		leaf|orphan
+0x80037714	328	func_80037714	verified	3	u32	2	2	40	s0|s1|s2|s3|s4|ra	
+0x8003785C	396	func_8003785C	verified	3	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x800379E8	392	func_800379E8	verified	3	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x80037B70	468	func_80037B70	verified	2	u32	1	4	40	s0|s1|s2|s3|s4|ra	
+0x80037D44	500	func_80037D44	verified	2	u32	1	4	40	s0|s1|s2|s3|s4|ra	
+0x80037F38	364	func_80037F38	verified	2	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x800380A4	516	func_800380A4	verified	4	u32	4	4	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x800382A8	116	func_800382A8	verified	1	u32	1	1	40	ra	
+0x8003831C	116	func_8003831C	verified	1	u32	1	1	40	ra	
+0x80038390	116	func_80038390	verified	1	u32	1	1	40	ra	
+0x80038404	116	func_80038404	verified	1	u32	1	1	40	ra	
+0x80038478	324	func_80038478	verified	4	u32	2	2	56	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x800385BC	296	func_800385BC	verified	2	u32	1	3	64	s0|s1|s2|s3|s4|s5|ra	
+0x800386E4	212	func_800386E4	verified	3	u32	1	1	40	ra	
+0x800387B8	376	func_800387B8	verified	4	u32	2	4	48	s0|s1|s2|s3|s4|s5|ra	
+0x80038930	92	func_80038930	high	1	u32	1	1	0	ra	
+0x8003898C	84	func_8003898C	high	1	u32	1	1	0	ra	
+0x800389E0	288	func_800389E0	verified	2	u32	1	2	40	s0|s1|s2|s3|ra	
+0x80038B00	244	func_80038B00	verified	2	u32	1	2	40	s0|s1|s2|s3|ra	
+0x80038BF4	476	func_80038BF4	verified	3	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x80038DD0	432	func_80038DD0	medium	1	u32	1	2	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x80038F80	444	func_80038F80	medium	1	u32	1	2	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x8003913C	60	func_8003913C	low	0	u32	0	0	0		leaf|orphan
+0x80039178	60	func_80039178	low	0	u32	0	0	0		leaf|orphan
+0x800391B4	436	func_800391B4	medium	1	u32	1	3	40	s0|s1|s2|s3|s4|ra	orphan
+0x80039368	416	func_80039368	medium	1	u32	1	4	40	s0|s1|s2|s3|s4|ra	orphan
+0x80039508	428	func_80039508	medium	1	u32	1	5	48	s0|s1|s2|s3|s4|ra	orphan
+0x800396B4	504	func_800396B4	medium	1	u32	1	5	48	s0|s1|s2|s3|s4|ra	orphan
+0x800398AC	128	func_800398AC	low	0	u32	2	0	0		leaf|orphan
+0x8003992C	568	func_8003992C	medium	1	u32	1	3	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x80039B64	440	func_80039B64	medium	1	u32	1	4	40	s0|s1|s2|s3|s4|ra	orphan
+0x80039D1C	628	func_80039D1C	medium	1	u32	1	4	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x80039F90	40	func_80039F90	low	1	u32	0	0	0		leaf|orphan
+0x80039FB8	140	func_80039FB8	low	0	u32	0	0	0		leaf|orphan
+0x8003A044	380	func_8003A044	verified	3	u32	1	2	40	s0|s1|s2|s3|s4|ra	
+0x8003A1C0	772	func_8003A1C0	medium	1	u32	1	7	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x8003A4C4	48	func_8003A4C4	low	1	u32	1	0	0		leaf|orphan
+0x8003A4F4	116	func_8003A4F4	medium	1	u32	4	1	24	s0|ra	orphan
+0x8003A568	1124	func_8003A568	verified	4	u32	15	33	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8003A9CC	8	func_8003A9CC	low	0	u32	1	0	0		leaf
+0x8003A9D4	140	func_8003A9D4	low	0	u32	0	1	0	s0|s1|s2|s3|ra	orphan
+0x8003AA60	276	func_8003AA60	medium	1	u32	1	13	24	ra	orphan
+0x8003AB74	88	func_8003AB74	low	0	u32	6	2	0	s0|ra	orphan
+0x8003ABCC	32	func_8003ABCC	low	0	u32	0	0	0		leaf|orphan
+0x8003ABEC	36	func_8003ABEC	verified	0	void	3	1	24	ra	
+0x8003AC10	24	func_8003AC10	low	0	u32	0	0	0		leaf|orphan
+0x8003AC28	124	func_8003AC28	verified	2	u32	1	0	24	ra	indirect
+0x8003ACA4	220	func_8003ACA4	high	2	u32	0	4	32	s0|s1|s2|ra	addr_taken
+0x8003AD80	68	func_8003AD80	high	2	u32	0	1	32	s0|s1|ra	addr_taken
+0x8003ADC4	20	func_8003ADC4	high	2	u32	0	0	0		leaf|addr_taken
+0x8003ADD8	20	func_8003ADD8	high	2	u32	0	0	0		leaf|addr_taken
+0x8003ADEC	20	func_8003ADEC	high	2	u32	0	0	0		leaf|addr_taken
+0x8003AE00	56	func_8003AE00	high	2	u32	0	1	24	s0|ra	addr_taken
+0x8003AE38	88	func_8003AE38	low	0	u32	0	2	0	s0|ra	orphan
+0x8003AE90	8	func_8003AE90	high	0	void	0	0	0		leaf|addr_taken
+0x8003AE98	344	func_8003AE98	high	1	u32	3	0	0		leaf
+0x8003AFF0	32	func_8003AFF0	low	0	u32	0	0	0		leaf|orphan
+0x8003B010	276	func_8003B010	high	1	u32	1	0	0		leaf
+0x8003B124	32	func_8003B124	low	0	u32	0	0	0		leaf|orphan
+0x8003B144	80	func_8003B144	verified	1	u32	4	1	24	ra	
+0x8003B194	132	func_8003B194	verified	2	u32	2	1	24	s0|ra	
+0x8003B218	8	func_8003B218	high	0	void	1	0	0		leaf
+0x8003B220	40	func_8003B220	low	0	u32	0	0	0		leaf|orphan
+0x8003B248	32	func_8003B248	low	0	u32	0	0	0		leaf|orphan
+0x8003B268	52	func_8003B268	low	0	u32	0	0	0		leaf|orphan
+0x8003B29C	52	func_8003B29C	low	0	u32	0	0	0		leaf|orphan
+0x8003B2D0	12	func_8003B2D0	low	3	void	0	0	0		leaf|orphan
+0x8003B2DC	60	func_8003B2DC	low	0	u32	0	0	0		leaf|orphan
+0x8003B318	156	func_8003B318	medium	0	u32	0	1	32	s0|s1|ra	orphan
+0x8003B3B4	32	func_8003B3B4	low	0	u32	0	0	0		leaf|orphan
+0x8003B3D4	48	func_8003B3D4	low	0	u32	0	0	0		leaf|orphan
+0x8003B404	164	func_8003B404	low	0	u32	0	0	0		leaf|orphan
+0x8003B4A8	48	func_8003B4A8	low	0	u32	0	0	0		leaf|orphan
+0x8003B4D8	564	func_8003B4D8	low	0	u32	0	0	0		leaf|orphan
+0x8003B70C	108	func_8003B70C	low	0	u32	0	0	0		leaf|orphan
+0x8003B778	44	func_8003B778	low	0	u32	0	0	0		leaf|orphan
+0x8003B7A4	144	func_8003B7A4	low	0	u32	0	0	0		leaf|orphan
+0x8003B834	60	func_8003B834	low	3	u32	0	0	0		leaf|orphan
+0x8003B870	20	func_8003B870	low	0	u32	0	0	0		leaf|orphan
+0x8003B884	20	func_8003B884	low	0	u32	0	0	0		leaf|orphan
+0x8003B898	16	func_8003B898	low	0	u32	0	0	0		leaf|orphan
+0x8003B8A8	80	func_8003B8A8	low	0	u32	0	0	0		leaf|orphan
+0x8003B8F8	80	func_8003B8F8	low	0	u32	0	0	0		leaf|orphan
+0x8003B948	120	func_8003B948	low	0	u32	0	0	0		leaf|orphan
+0x8003B9C0	8	func_8003B9C0	low	1	void	0	0	0		leaf|orphan
+0x8003B9C8	32	func_8003B9C8	low	1	u32	0	0	0		leaf|orphan
+0x8003B9E8	12	func_8003B9E8	low	1	u32	0	0	0		leaf|orphan
+0x8003B9F4	52	func_8003B9F4	low	0	u32	0	0	0		leaf|orphan
+0x8003BA28	8	func_8003BA28	low	0	void	0	0	0		leaf|orphan
+0x8003BA30	28	func_8003BA30	low	0	u32	0	0	0		leaf|orphan
+0x8003BA4C	72	func_8003BA4C	low	0	u32	0	0	0		leaf|orphan
+0x8003BA94	72	func_8003BA94	low	0	u32	0	0	0		leaf|orphan
+0x8003BADC	100	func_8003BADC	low	0	u32	0	0	0		leaf|orphan
+0x8003BB40	40	func_8003BB40	high	0	u32	1	1	0	ra	
+0x8003BB68	348	func_8003BB68	verified	0	u32	1	8	48	s0|s1|s2|s3|ra	
+0x8003BCC4	64	func_8003BCC4	high	3	u32	3	0	0		leaf
+0x8003BD04	204	func_8003BD04	medium	0	u32	0	5	40	s0|s1|ra	orphan
+0x8003BDD0	112	func_8003BDD0	low	3	u32	1	0	0		leaf|orphan
+0x8003BE40	28	func_8003BE40	low	0	u32	0	0	0		leaf|orphan
+0x8003BE5C	92	func_8003BE5C	low	0	u32	0	0	0		leaf|orphan
+0x8003BEB8	64	func_8003BEB8	low	3	u32	0	0	0		leaf|orphan
+0x8003BEF8	140	func_8003BEF8	verified	1	u32	2	1	24	s0|ra	
+0x8003BF84	64	func_8003BF84	verified	0	u32	3	1	32	ra	
+0x8003BFC4	164	func_8003BFC4	verified	2	u32	1	1	40	s0|s1|s2|s3|ra	
+0x8003C068	56	func_8003C068	high	1	u32	1	0	0		leaf
+0x8003C0A0	8	func_8003C0A0	low	0	u32	0	0	0		leaf|orphan
+0x8003C0A8	220	func_8003C0A8	verified	0	u32	2	4	32	s0|s1|s2|ra	
+0x8003C184	160	func_8003C184	low	0	u32	0	1	0	ra	orphan
+0x8003C224	36	func_8003C224	medium	0	void	0	1	24	ra	orphan
+0x8003C248	120	func_8003C248	verified	3	u32	1	3	32	s0|s1|s2|ra	
+0x8003C2C0	72	func_8003C2C0	verified	2	u32	1	3	24	s0|ra	
+0x8003C308	112	func_8003C308	verified	2	u32	1	3	24	s0|ra	
+0x8003C378	76	func_8003C378	verified	2	u32	1	3	24	s0|ra	
+0x8003C3C4	88	func_8003C3C4	verified	2	u32	1	3	24	s0|ra	
+0x8003C41C	112	func_8003C41C	verified	2	u32	1	3	24	s0|ra	
+0x8003C48C	112	func_8003C48C	verified	2	u32	2	3	24	s0|ra	
+0x8003C4FC	108	func_8003C4FC	verified	2	u32	1	4	32	s0|s1|ra	
+0x8003C568	892	func_8003C568	verified	1	u32	2	14	48	s0|s1|s2|s3|s4|s5|ra	
+0x8003C8E4	60	func_8003C8E4	low	0	u32	0	0	0		leaf|orphan
+0x8003C920	48	func_8003C920	low	0	u32	0	0	0		leaf|orphan
+0x8003C950	56	func_8003C950	low	0	u32	0	0	0		leaf|orphan
+0x8003C988	104	func_8003C988	low	0	u32	0	0	0		leaf|orphan
+0x8003C9F0	52	func_8003C9F0	low	3	u32	0	0	0		leaf|orphan
+0x8003CA24	100	func_8003CA24	low	0	u32	0	0	0		leaf|orphan
+0x8003CA88	52	func_8003CA88	low	3	u32	0	0	0		leaf|orphan
+0x8003CABC	68	func_8003CABC	low	0	u32	0	0	0		leaf|orphan
+0x8003CB00	64	func_8003CB00	low	0	u32	0	0	0		leaf|orphan
+0x8003CB40	84	func_8003CB40	low	0	u32	0	0	0		leaf|orphan
+0x8003CB94	112	func_8003CB94	low	0	u32	0	0	0		leaf|orphan
+0x8003CC04	80	func_8003CC04	low	0	u32	0	0	0		leaf|orphan
+0x8003CC54	116	func_8003CC54	low	0	u32	0	0	0		leaf|orphan
+0x8003CCC8	88	func_8003CCC8	low	0	u32	0	0	0		leaf|orphan
+0x8003CD20	88	func_8003CD20	low	0	u32	0	0	0		leaf|orphan
+0x8003CD78	32	func_8003CD78	low	0	u32	0	0	0		leaf|orphan
+0x8003CD98	68	func_8003CD98	low	0	u32	0	0	0		leaf|orphan
+0x8003CDDC	48	func_8003CDDC	low	0	u32	0	0	0		leaf|orphan
+0x8003CE0C	8	func_8003CE0C	high	0	void	1	0	0		leaf
+0x8003CE14	8	func_8003CE14	low	0	void	0	0	0		leaf|orphan
+0x8003CE1C	196	func_8003CE1C	low	0	u32	0	1	0	s0|s1|ra	orphan
+0x8003CEE0	32	func_8003CEE0	low	0	u32	0	0	0		leaf|orphan
+0x8003CF00	80	func_8003CF00	high	0	u32	1	0	0		leaf
+0x8003CF50	20	func_8003CF50	low	0	u32	0	0	0		leaf|orphan
+0x8003CF64	68	func_8003CF64	low	0	u32	0	0	0		leaf|orphan
+0x8003CFA8	68	func_8003CFA8	low	0	u32	0	0	0		leaf|orphan
+0x8003CFEC	32	func_8003CFEC	low	0	u32	0	0	0		leaf|orphan
+0x8003D00C	24	func_8003D00C	low	0	u32	0	0	0		leaf|orphan
+0x8003D024	60	func_8003D024	low	0	u32	0	0	0		leaf|orphan
+0x8003D060	64	func_8003D060	low	0	u32	0	0	0		leaf|orphan
+0x8003D0A0	32	func_8003D0A0	low	0	u32	0	0	0		leaf|orphan
+0x8003D0C0	44	func_8003D0C0	low	0	u32	0	0	0		leaf|orphan
+0x8003D0EC	96	func_8003D0EC	low	0	u32	0	2	0	s0|ra	orphan
+0x8003D14C	192	func_8003D14C	low	0	u32	0	4	0	s0|ra	orphan
+0x8003D20C	84	func_8003D20C	verified	0	u32	1	2	24	ra	
+0x8003D260	72	func_8003D260	low	0	u32	0	0	0		leaf|orphan
+0x8003D2A8	352	func_8003D2A8	verified	0	u32	1	5	32	s0|s1|s2|ra	
+0x8003D408	52	func_8003D408	low	0	u32	0	1	0	ra	orphan
+0x8003D43C	48	func_8003D43C	medium	0	u32	1	2	24	ra	orphan
+0x8003D46C	84	func_8003D46C	medium	0	u32	0	2	24	ra	orphan
+0x8003D4C0	60	func_8003D4C0	verified	0	u32	3	2	24	ra	
+0x8003D4FC	452	func_8003D4FC	verified	0	u32	1	2	48	s0|s1|s2|s3|s4|s5|ra	
+0x8003D6C0	136	func_8003D6C0	high	0	u32	1	0	0		leaf
+0x8003D748	12	func_8003D748	low	1	void	0	0	0		leaf|orphan
+0x8003D754	40	func_8003D754	verified	0	u32	5	1	24	ra	
+0x8003D77C	108	func_8003D77C	low	0	u32	0	0	0		leaf|orphan
+0x8003D7E8	12	func_8003D7E8	high	2	u32	2	0	0		leaf
+0x8003D7F4	488	func_8003D7F4	medium	0	u32	0	3	40	s0|s1|s2|s3|ra	orphan
+0x8003D9DC	248	func_8003D9DC	high	0	u32	1	3	0	s0|ra	
+0x8003DAD4	52	func_8003DAD4	high	1	u32	2	0	0		leaf
+0x8003DB08	28	func_8003DB08	low	1	u32	0	0	0		leaf|orphan
+0x8003DB24	284	func_8003DB24	verified	4	u32	2	2	40	s0|s1|s2|s3|ra	
+0x8003DC40	360	func_8003DC40	low	0	u32	0	2	0	s0|s1|ra	orphan
+0x8003DDA8	8	func_8003DDA8	low	0	void	0	0	0		leaf|orphan
+0x8003DDB0	92	func_8003DDB0	low	0	u32	0	0	0		leaf|orphan
+0x8003DE0C	28	func_8003DE0C	low	0	u32	0	0	0		leaf|orphan
+0x8003DE28	8	func_8003DE28	low	0	void	0	0	0		leaf|orphan
+0x8003DE30	20	func_8003DE30	high	2	u32	15	0	0		leaf
+0x8003DE44	280	func_8003DE44	medium	0	u32	0	2	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x8003DF5C	228	func_8003DF5C	medium	0	u32	0	2	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x8003E040	8	func_8003E040	low	0	void	0	0	0		leaf|orphan
+0x8003E048	264	func_8003E048	medium	0	u32	0	5	40	s0|s1|ra	orphan
+0x8003E150	168	func_8003E150	low	0	u32	0	0	0		leaf|orphan
+0x8003E1F8	84	func_8003E1F8	high	1	u32	0	3	24	s0|ra	addr_taken
+0x8003E24C	164	func_8003E24C	verified	2	u32	1	0	24	ra	indirect
+0x8003E2F0	32	func_8003E2F0	high	0	void	0	1	24	ra	addr_taken
+0x8003E310	32	func_8003E310	high	1	u32	0	0	0		leaf|addr_taken
+0x8003E330	396	func_8003E330	verified	1	u32	1	3	24	s0|ra	addr_taken
+0x8003E4BC	108	func_8003E4BC	high	1	u32	0	2	24	ra	addr_taken
+0x8003E528	124	func_8003E528	high	1	u32	0	2	24	ra	addr_taken
+0x8003E5A4	8	func_8003E5A4	high	0	void	0	0	0		leaf|addr_taken
+0x8003E5AC	76	func_8003E5AC	high	1	u32	0	2	0	ra	addr_taken
+0x8003E5F8	76	func_8003E5F8	high	1	u32	0	2	0	ra	addr_taken
+0x8003E644	184	func_8003E644	high	1	u32	0	2	24	s0|ra	addr_taken
+0x8003E6FC	244	func_8003E6FC	verified	1	u32	1	3	24	ra	addr_taken
+0x8003E7F0	392	func_8003E7F0	high	1	u32	0	14	24	s0|ra	addr_taken
+0x8003E978	44	func_8003E978	high	1	void	0	2	24	s0|ra	addr_taken
+0x8003E9A4	128	func_8003E9A4	high	1	u32	0	3	24	ra	addr_taken
+0x8003EA24	48	func_8003EA24	verified	1	u32	4	1	24	ra	
+0x8003EA54	528	func_8003EA54	high	1	u32	1	1	0	s0|s1|s2|s3|s4|s5|s6|ra	
+0x8003EC64	44	func_8003EC64	high	2	u32	1	0	0		leaf
+0x8003EC90	104	func_8003EC90	verified	1	u32	8	2	24	s0|ra	
+0x8003ECF8	100	func_8003ECF8	verified	2	u32	1	3	24	s0|ra	
+0x8003ED5C	80	func_8003ED5C	verified	2	u32	2	4	24	s0|ra	
+0x8003EDAC	132	func_8003EDAC	verified	2	u32	1	4	32	s0|s1|ra	
+0x8003EE30	100	func_8003EE30	verified	2	u32	1	3	24	s0|ra	
+0x8003EE94	184	func_8003EE94	verified	2	u32	1	4	32	s0|s1|ra	
+0x8003EF4C	36	func_8003EF4C	verified	2	u32	1	1	24	ra	
+0x8003EF70	188	func_8003EF70	verified	2	u32	1	4	24	s0|ra	
+0x8003F02C	756	func_8003F02C	high	1	u32	0	17	40	s0|s1|s2|s3|s4|ra	addr_taken
+0x8003F320	76	func_8003F320	high	1	u32	0	1	24	ra	addr_taken
+0x8003F36C	128	func_8003F36C	verified	1	u32	1	3	24	s0|ra	addr_taken
+0x8003F3EC	256	func_8003F3EC	verified	1	u32	2	6	24	s0|ra	
+0x8003F4EC	64	func_8003F4EC	high	0	u32	4	1	0	ra	
+0x8003F52C	64	func_8003F52C	high	0	u32	3	0	0		leaf
+0x8003F56C	56	func_8003F56C	high	1	u32	0	1	24	ra	addr_taken
+0x8003F5A4	184	func_8003F5A4	verified	1	u32	1	2	32	s0|s1|ra	
+0x8003F65C	324	func_8003F65C	verified	1	u32	1	7	32	s0|s1|ra	
+0x8003F7A0	240	func_8003F7A0	verified	1	u32	1	5	32	s0|s1|ra	addr_taken
+0x8003F890	244	func_8003F890	verified	2	u32	1	5	32	s0|s1|ra	
+0x8003F984	636	func_8003F984	high	1	u32	0	11	40	s0|s1|s2|s3|s4|ra	addr_taken
+0x8003FC00	44	func_8003FC00	high	1	void	0	2	24	s0|ra	addr_taken
+0x8003FC2C	256	func_8003FC2C	high	1	u32	0	7	24	s0|ra	addr_taken
+0x8003FD2C	204	func_8003FD2C	verified	1	u32	1	3	24	s0|ra	
+0x8003FDF8	192	func_8003FDF8	high	1	u32	0	2	24	s0|ra	addr_taken
+0x8003FEB8	236	func_8003FEB8	high	1	u32	0	4	24	s0|ra	addr_taken
+0x8003FFA4	8	func_8003FFA4	high	0	void	1	0	0		leaf
+0x8003FFAC	108	func_8003FFAC	high	1	u32	2	0	0		leaf
+0x80040018	268	func_80040018	high	1	u32	0	5	24	s0|ra	addr_taken
+0x80040124	120	func_80040124	verified	1	u32	2	2	24	s0|ra	
+0x8004019C	228	func_8004019C	verified	1	u32	1	7	24	s0|ra	
+0x80040280	192	func_80040280	high	1	u32	5	1	0	s0|ra	
+0x80040340	428	func_80040340	verified	1	u32	1	7	32	s0|s1|s2|ra	
+0x800404EC	116	func_800404EC	verified	2	u32	1	1	32	s0|s1|ra	
+0x80040560	140	func_80040560	verified	1	u32	1	1	24	ra	
+0x800405EC	236	func_800405EC	verified	1	u32	1	6	32	s0|s1|s2|ra	
+0x800406D8	140	func_800406D8	high	1	u32	0	1	24	ra	addr_taken
+0x80040764	32	func_80040764	high	0	void	0	1	24	ra	addr_taken
+0x80040784	32	func_80040784	high	0	void	0	1	24	ra	addr_taken
+0x800407A4	32	func_800407A4	high	0	void	0	1	24	ra	addr_taken
+0x800407C4	56	func_800407C4	high	1	u32	0	1	24	s0|ra	addr_taken
+0x800407FC	8	func_800407FC	high	0	void	0	0	0		leaf|addr_taken
+0x80040804	804	func_80040804	high	1	u32	0	8	40	s0|s1|s2|s3|ra	addr_taken
+0x80040B28	68	func_80040B28	high	1	u32	28	0	0		leaf
+0x80040B6C	44	func_80040B6C	low	3	u32	11	0	0		leaf|orphan
+0x80040B98	136	func_80040B98	low	3	u32	0	0	0		leaf|orphan
+0x80040C20	104	func_80040C20	low	3	u32	0	0	0		leaf|orphan
+0x80040C88	24	func_80040C88	high	2	u32	4	0	0		leaf
+0x80040CA0	152	func_80040CA0	low	2	u32	0	0	0		leaf|orphan
+0x80040D38	96	func_80040D38	low	4	u32	0	0	0		leaf|orphan
+0x80040D98	108	func_80040D98	medium	4	u32	2	1	32	ra	orphan
+0x80040E04	124	func_80040E04	low	4	u32	1	0	0		leaf|orphan
+0x80040E80	60	func_80040E80	low	4	u32	0	0	0		leaf|orphan
+0x80040EBC	96	func_80040EBC	low	2	u32	1	0	0		leaf|orphan
+0x80040F1C	8	func_80040F1C	low	0	u32	0	0	0		leaf|orphan
+0x80040F24	228	func_80040F24	verified	2	u32	28	2	32	s0|s1|ra	
+0x80041008	108	func_80041008	verified	2	u32	6	1	24	ra	
+0x80041074	308	func_80041074	medium	0	u32	0	3	48	s0|s1|s2|s3|s4|s5|ra	orphan
+0x800411A8	92	func_800411A8	low	0	u32	0	0	0		leaf|orphan
+0x80041204	20	func_80041204	low	0	u32	0	0	0		leaf|orphan
+0x80041218	100	func_80041218	verified	1	u32	2	2	24	s0|ra	
+0x8004127C	172	func_8004127C	verified	1	u32	4	4	32	s0|s1|s2|ra	
+0x80041328	160	func_80041328	verified	1	u32	12	4	32	s0|s1|s2|ra	
+0x800413C8	348	func_800413C8	high	1	u32	1	2	0	s0|s1|ra	
+0x80041524	136	func_80041524	verified	2	u32	12	1	24	ra	
+0x800415AC	196	func_800415AC	verified	0	u32	1	3	32	s0|s1|s2|ra	
+0x80041670	100	func_80041670	high	3	u32	1	0	0		leaf
+0x800416D4	40	func_800416D4	high	3	u32	1	0	0		leaf
+0x800416FC	132	func_800416FC	low	4	u32	0	0	0		leaf|orphan
+0x80041780	32	func_80041780	low	3	u32	0	0	0		leaf|orphan
+0x800417A0	288	func_800417A0	verified	3	u32	1	1	24	s0|ra	
+0x800418C0	44	func_800418C0	high	1	u32	29	0	0		leaf
+0x800418EC	56	func_800418EC	low	3	u32	0	0	0		leaf|orphan
+0x80041924	40	func_80041924	high	1	u32	2	0	0		leaf
+0x8004194C	8	func_8004194C	low	0	u32	0	0	0		leaf|orphan
+0x80041954	12	func_80041954	low	0	u32	0	0	0		leaf|orphan
+0x80041960	96	func_80041960	verified	1	u32	1	2	24	s0|ra	
+0x800419C0	368	func_800419C0	high	2	u32	2	8	0	s0|s1|s2|s3|s4|ra	
+0x80041B30	84	func_80041B30	verified	2	u32	1	1	24	s0|ra	
+0x80041B84	84	func_80041B84	verified	2	u32	1	1	24	s0|ra	
+0x80041BD8	56	func_80041BD8	verified	1	void	1	2	24	s0|ra	
+0x80041C10	316	func_80041C10	verified	1	u32	1	8	32	s0|s1|s2|ra	
+0x80041D4C	316	func_80041D4C	verified	1	u32	1	8	32	s0|s1|s2|ra	
+0x80041E88	124	func_80041E88	verified	2	u32	4	1	32	s0|s1|s2|ra	
+0x80041F04	168	func_80041F04	high	3	u32	1	0	0		leaf
+0x80041FAC	228	func_80041FAC	verified	1	u32	2	6	32	s0|s1|s2|ra	
+0x80042090	228	func_80042090	verified	1	u32	1	6	32	s0|s1|s2|ra	
+0x80042174	228	func_80042174	verified	1	u32	2	6	32	s0|s1|s2|ra	
+0x80042258	228	func_80042258	verified	1	u32	1	6	32	s0|s1|s2|ra	
+0x8004233C	380	func_8004233C	verified	1	u32	1	9	32	s0|s1|s2|ra	
+0x800424B8	124	func_800424B8	verified	1	u32	1	4	32	s0|s1|ra	
+0x80042534	84	func_80042534	verified	0	u32	2	2	24	ra	
+0x80042588	92	func_80042588	verified	1	u32	2	1	24	ra	
+0x800425E4	60	func_800425E4	verified	0	u32	1	1	24	ra	
+0x80042620	128	func_80042620	verified	2	u32	2	5	32	s0|s1|ra	
+0x800426A0	124	func_800426A0	verified	1	u32	1	4	32	s0|s1|ra	
+0x8004271C	84	func_8004271C	verified	1	u32	2	2	24	ra	
+0x80042770	92	func_80042770	verified	1	u32	2	1	24	ra	
+0x800427CC	52	func_800427CC	high	0	u32	1	1	0	ra	
+0x80042800	128	func_80042800	verified	2	u32	2	5	32	s0|s1|ra	
+0x80042880	40	func_80042880	high	1	u32	3	0	0		leaf
+0x800428A8	312	func_800428A8	verified	2	u32	1	5	40	s0|s1|s2|s3|ra	
+0x800429E0	176	func_800429E0	verified	3	u32	1	4	40	s0|s1|s2|s3|ra	
+0x80042A90	320	func_80042A90	high	2	u32	2	6	0	s0|s1|s2|ra	
+0x80042BD0	700	func_80042BD0	verified	1	u32	1	6	40	s0|s1|s2|s3|ra	
+0x80042E8C	124	func_80042E8C	high	2	u32	4	0	0		leaf
+0x80042F08	12	func_80042F08	low	2	void	0	0	0		leaf|orphan
+0x80042F14	76	func_80042F14	high	2	u32	1	0	0		leaf
+0x80042F60	120	func_80042F60	high	2	u32	4	0	0		leaf
+0x80042FD8	12	func_80042FD8	low	3	void	0	0	0		leaf|orphan
+0x80042FE4	12	func_80042FE4	low	2	u32	1	0	0		leaf
+0x80042FF0	64	func_80042FF0	high	1	u32	1	0	0		leaf
+0x80043030	60	func_80043030	verified	1	u32	6	1	24	ra	
+0x8004306C	140	func_8004306C	high	2	u32	2	0	0		leaf
+0x800430F8	8	func_800430F8	low	0	u32	0	0	0		leaf|orphan
+0x80043100	140	func_80043100	high	2	u32	2	0	0		leaf
+0x8004318C	8	func_8004318C	low	0	u32	0	0	0		leaf|orphan
+0x80043194	84	func_80043194	high	2	u32	4	0	0		leaf
+0x800431E8	40	func_800431E8	low	4	u32	0	0	0		leaf|orphan
+0x80043210	56	func_80043210	medium	1	u32	2	1	24	ra	orphan
+0x80043248	24	func_80043248	high	2	u32	4	0	0		leaf
+0x80043260	56	func_80043260	medium	1	u32	2	1	24	ra	orphan
+0x80043298	24	func_80043298	high	2	u32	4	0	0		leaf
+0x800432B0	56	func_800432B0	verified	1	u32	2	1	24	ra	
+0x800432E8	56	func_800432E8	verified	1	u32	2	1	24	ra	
+0x80043320	368	func_80043320	verified	1	u32	4	5	40	s0|s1|s2|s3|s4|ra	
+0x80043490	108	func_80043490	high	1	u32	1	0	0		leaf
+0x800434FC	116	func_800434FC	low	3	u32	0	0	0		leaf|orphan
+0x80043570	88	func_80043570	verified	2	u32	1	1	24	ra	
+0x800435C8	336	func_800435C8	verified	1	u32	1	1	40	s0|s1|s2|s3|ra	
+0x80043718	180	func_80043718	verified	2	u32	2	4	32	s0|s1|ra	
+0x800437CC	100	func_800437CC	verified	2	u32	2	1	24	s0|ra	
+0x80043830	336	func_80043830	verified	1	u32	1	1	40	s0|s1|s2|s3|ra	
+0x80043980	180	func_80043980	verified	2	u32	2	4	32	s0|s1|ra	
+0x80043A34	352	func_80043A34	verified	1	u32	2	2	40	s0|s1|s2|s3|s4|ra	
+0x80043B94	76	func_80043B94	verified	1	u32	1	1	24	ra	
+0x80043BE0	92	func_80043BE0	verified	1	u32	4	2	24	s0|ra	
+0x80043C3C	128	func_80043C3C	verified	2	u32	1	1	24	ra	
+0x80043CBC	212	func_80043CBC	verified	2	u32	10	1	32	s0|s1|ra	
+0x80043D90	76	func_80043D90	verified	2	u32	1	1	24	ra	
+0x80043DDC	76	func_80043DDC	verified	2	u32	1	1	24	ra	
+0x80043E28	52	func_80043E28	high	2	u32	2	0	0		leaf
+0x80043E5C	8	func_80043E5C	low	0	u32	0	0	0		leaf|orphan
+0x80043E64	96	func_80043E64	verified	1	u32	1	2	24	s0|ra	
+0x80043EC4	96	func_80043EC4	verified	1	u32	1	2	24	s0|ra	
+0x80043F24	52	func_80043F24	high	2	u32	2	0	0		leaf
+0x80043F58	8	func_80043F58	low	0	u32	0	0	0		leaf|orphan
+0x80043F60	76	func_80043F60	verified	2	u32	1	1	24	ra	
+0x80043FAC	76	func_80043FAC	verified	2	u32	1	1	24	ra	
+0x80043FF8	84	func_80043FF8	high	2	u32	2	0	0		leaf
+0x8004404C	8	func_8004404C	low	0	u32	0	0	0		leaf|orphan
+0x80044054	204	func_80044054	verified	4	u32	2	1	24	ra	
+0x80044120	36	func_80044120	verified	1	u32	3	1	24	ra	
+0x80044144	260	func_80044144	verified	3	u32	3	1	24	ra	
+0x80044248	264	func_80044248	verified	1	u32	2	1	24	ra	
+0x80044350	204	func_80044350	verified	4	u32	2	1	24	ra	
+0x8004441C	36	func_8004441C	verified	1	u32	3	1	24	ra	
+0x80044440	260	func_80044440	verified	3	u32	3	1	24	ra	
+0x80044544	264	func_80044544	verified	1	u32	2	1	24	ra	
+0x8004464C	312	func_8004464C	verified	2	u32	10	4	32	s0|s1|ra	
+0x80044784	208	func_80044784	verified	1	u32	1	2	32	s0|s1|ra	
+0x80044854	56	func_80044854	medium	0	u32	0	2	24	ra	orphan
+0x8004488C	56	func_8004488C	verified	2	u32	75	1	24	ra	
+0x800448C4	100	func_800448C4	verified	3	u32	3	2	24	s0|ra	
+0x80044928	84	func_80044928	verified	3	u32	6	2	24	s0|ra	
+0x8004497C	8	func_8004497C	high	0	void	0	0	0		leaf|addr_taken
+0x80044984	184	func_80044984	high	1	u32	0	2	24	ra	addr_taken
+0x80044A3C	68	func_80044A3C	high	1	u32	0	2	24	ra	addr_taken
+0x80044A80	72	func_80044A80	high	1	u32	0	1	24	ra	addr_taken
+0x80044AC8	124	func_80044AC8	verified	1	u32	1	3	24	ra	addr_taken
+0x80044B44	212	func_80044B44	verified	1	u32	1	2	32	s0|s1|ra	
+0x80044C18	112	func_80044C18	verified	1	u32	1	1	24	ra	
+0x80044C88	328	func_80044C88	high	2	u32	1	0	0		leaf
+0x80044DD0	28	func_80044DD0	low	0	u32	0	0	0		leaf|orphan
+0x80044DEC	284	func_80044DEC	verified	1	u32	3	1	24	ra	
+0x80044F08	36	func_80044F08	high	0	void	0	1	24	ra	addr_taken
+0x80044F2C	196	func_80044F2C	high	1	u32	0	2	24	s0|ra	addr_taken
+0x80044FF0	36	func_80044FF0	high	0	void	0	1	24	ra	addr_taken
+0x80045014	44	func_80045014	high	1	void	0	1	24	ra	addr_taken
+0x80045040	68	func_80045040	high	1	u32	0	1	24	ra	addr_taken
+0x80045084	68	func_80045084	high	1	u32	0	1	24	ra	addr_taken
+0x800450C8	68	func_800450C8	high	1	u32	0	1	24	ra	addr_taken
+0x8004510C	68	func_8004510C	high	1	u32	0	1	24	ra	addr_taken
+0x80045150	116	func_80045150	high	1	u32	0	1	24	ra	addr_taken
+0x800451C4	112	func_800451C4	high	1	u32	0	1	24	ra	addr_taken
+0x80045234	192	func_80045234	verified	1	u32	1	2	24	ra	addr_taken
+0x800452F4	44	func_800452F4	verified	1	u32	1	1	24	ra	
+0x80045320	136	func_80045320	high	1	u32	0	1	24	ra	addr_taken
+0x800453A8	264	func_800453A8	high	1	u32	1	3	0	ra	
+0x800454B0	264	func_800454B0	high	1	u32	1	3	0	ra	
+0x800455B8	64	func_800455B8	high	1	u32	0	2	24	ra	addr_taken
+0x800455F8	88	func_800455F8	verified	1	u32	1	1	24	ra	
+0x80045650	60	func_80045650	verified	2	u32	2	1	24	ra	
+0x8004568C	36	func_8004568C	high	0	void	0	1	24	ra	addr_taken
+0x800456B0	36	func_800456B0	high	0	void	0	1	24	ra	addr_taken
+0x800456D4	36	func_800456D4	high	0	void	0	1	24	ra	addr_taken
+0x800456F8	36	func_800456F8	high	0	void	0	1	24	ra	addr_taken
+0x8004571C	36	func_8004571C	high	0	void	0	1	24	ra	addr_taken
+0x80045740	36	func_80045740	high	0	void	0	1	24	ra	addr_taken
+0x80045764	76	func_80045764	high	1	u32	0	1	24	ra	addr_taken
+0x800457B0	36	func_800457B0	high	0	void	0	1	24	ra	addr_taken
+0x800457D4	36	func_800457D4	high	0	void	0	1	24	ra	addr_taken
+0x800457F8	36	func_800457F8	high	0	void	0	1	24	ra	addr_taken
+0x8004581C	36	func_8004581C	high	0	void	0	1	24	ra	addr_taken
+0x80045840	36	func_80045840	high	0	void	0	1	24	ra	addr_taken
+0x80045864	124	func_80045864	high	1	u32	0	1	24	ra	addr_taken
+0x800458E0	36	func_800458E0	high	0	void	0	1	24	ra	addr_taken
+0x80045904	36	func_80045904	high	0	void	0	1	24	ra	addr_taken
+0x80045928	36	func_80045928	high	0	void	0	1	24	ra	addr_taken
+0x8004594C	36	func_8004594C	high	0	void	0	1	24	ra	addr_taken
+0x80045970	36	func_80045970	high	0	void	0	1	24	ra	addr_taken
+0x80045994	36	func_80045994	high	0	void	0	1	24	ra	addr_taken
+0x800459B8	36	func_800459B8	high	0	void	0	1	24	ra	addr_taken
+0x800459DC	36	func_800459DC	high	0	void	0	1	24	ra	addr_taken
+0x80045A00	36	func_80045A00	high	0	void	0	1	24	ra	addr_taken
+0x80045A24	36	func_80045A24	high	0	void	0	1	24	ra	addr_taken
+0x80045A48	36	func_80045A48	high	0	void	0	1	24	ra	addr_taken
+0x80045A6C	36	func_80045A6C	high	0	void	0	1	24	ra	addr_taken
+0x80045A90	36	func_80045A90	high	0	void	0	1	24	ra	addr_taken
+0x80045AB4	36	func_80045AB4	verified	0	void	1	1	24	ra	
+0x80045AD8	36	func_80045AD8	high	0	void	0	1	24	ra	addr_taken
+0x80045AFC	8	func_80045AFC	high	0	void	0	0	0		leaf|addr_taken
+0x80045B04	36	func_80045B04	high	0	void	0	1	24	ra	addr_taken
+0x80045B28	36	func_80045B28	high	0	void	0	1	24	ra	addr_taken
+0x80045B4C	36	func_80045B4C	high	0	void	0	1	24	ra	addr_taken
+0x80045B70	72	func_80045B70	high	1	u32	0	1	24	ra	addr_taken
+0x80045BB8	36	func_80045BB8	high	0	void	0	1	24	ra	addr_taken
+0x80045BDC	36	func_80045BDC	high	0	void	0	1	24	ra	addr_taken
+0x80045C00	48	func_80045C00	high	1	u32	0	1	24	ra	addr_taken
+0x80045C30	36	func_80045C30	high	0	void	0	1	24	ra	addr_taken
+0x80045C54	104	func_80045C54	high	1	u32	0	1	24	ra	addr_taken
+0x80045CBC	120	func_80045CBC	high	1	u32	0	3	32	s0|s1|s2|ra	addr_taken
+0x80045D34	120	func_80045D34	high	1	u32	0	3	24	ra	addr_taken
+0x80045DAC	36	func_80045DAC	verified	0	void	1	1	24	ra	
+0x80045DD0	36	func_80045DD0	verified	0	void	1	1	24	ra	
+0x80045DF4	72	func_80045DF4	high	1	u32	0	1	24	ra	addr_taken
+0x80045E3C	36	func_80045E3C	high	0	void	0	1	24	ra	addr_taken
+0x80045E60	36	func_80045E60	high	0	void	0	1	24	ra	addr_taken
+0x80045E84	36	func_80045E84	high	0	void	0	1	24	ra	addr_taken
+0x80045EA8	72	func_80045EA8	high	1	u32	0	1	24	ra	addr_taken
+0x80045EF0	72	func_80045EF0	high	1	u32	0	1	24	ra	addr_taken
+0x80045F38	36	func_80045F38	high	0	void	0	1	24	ra	addr_taken
+0x80045F5C	36	func_80045F5C	high	0	void	0	1	24	ra	addr_taken
+0x80045F80	36	func_80045F80	high	0	void	0	1	24	ra	addr_taken
+0x80045FA4	36	func_80045FA4	high	0	void	0	1	24	ra	addr_taken
+0x80045FC8	36	func_80045FC8	high	0	void	0	1	24	ra	addr_taken
+0x80045FEC	36	func_80045FEC	high	0	void	0	1	24	ra	addr_taken
+0x80046010	36	func_80046010	high	0	void	0	1	24	ra	addr_taken
+0x80046034	36	func_80046034	high	0	void	0	1	24	ra	addr_taken
+0x80046058	472	func_80046058	verified	3	u32	3	6	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80046230	512	func_80046230	verified	1	u32	1	3	40	s0|s1|s2|s3|ra	
+0x80046430	64	func_80046430	low	0	u32	0	0	0		leaf|orphan
+0x80046470	72	func_80046470	low	0	u32	0	0	0		leaf|orphan
+0x800464B8	32	func_800464B8	low	2	u32	0	0	0		leaf|orphan
+0x800464D8	44	func_800464D8	medium	0	void	0	2	24	ra	orphan
+0x80046504	44	func_80046504	medium	0	void	0	2	24	ra	orphan
+0x80046530	256	func_80046530	medium	0	u32	0	3	40	s0|s1|s2|s3|ra	orphan
+0x80046630	756	func_80046630	medium	0	u32	0	11	56	s0|s1|s2|s3|s4|s5|ra	orphan
+0x80046924	500	func_80046924	verified	0	u32	1	5	40	s0|s1|s2|s3|s4|ra	
+0x80046B18	460	func_80046B18	low	0	u32	0	8	0	s0|s1|s2|s3|ra	orphan
+0x80046CE4	100	func_80046CE4	verified	0	u32	1	1	32	s0|s1|ra	
+0x80046D48	416	func_80046D48	medium	0	u32	0	3	40	s0|s1|s2|s3|ra	orphan
+0x80046EE8	1232	func_80046EE8	verified	2	u32	1	12	64	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x800473B8	416	func_800473B8	medium	0	u32	0	3	40	s0|s1|s2|s3|ra	orphan
+0x80047558	1220	func_80047558	verified	1	u32	1	10	56	s0|s1|s2|s3|s4|s5|ra	
+0x80047A1C	2604	func_80047A1C	high	1	u32	0	23	56	s0|s1|s2|s3|s4|s5|ra	addr_taken
+0x80048448	36	func_80048448	high	0	void	0	1	24	ra	addr_taken
+0x8004846C	36	func_8004846C	high	0	void	0	1	24	ra	addr_taken
+0x80048490	36	func_80048490	high	0	void	0	1	24	ra	addr_taken
+0x800484B4	28	func_800484B4	high	0	u32	5	0	0		leaf
+0x800484D0	532	func_800484D0	low	4	u32	0	0	0		leaf|orphan
+0x800486E4	252	func_800486E4	verified	4	u32	5	2	40	s0|s1|s2|s3|s4|ra	
+0x800487E0	444	func_800487E0	high	4	u32	9	0	0		leaf
+0x8004899C	368	func_8004899C	low	4	u32	0	0	0		leaf|orphan
+0x80048B0C	8	func_80048B0C	low	0	u32	0	0	0		leaf|orphan
+0x80048B14	468	func_80048B14	verified	2	u32	1	3	64	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x80048CE8	496	func_80048CE8	verified	2	u32	1	3	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80048ED8	440	func_80048ED8	verified	2	u32	1	4	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80049090	428	func_80049090	verified	2	u32	3	3	64	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x8004923C	388	func_8004923C	verified	2	u32	3	3	64	s0|s1|s2|s3|s4|s5|s6|s7|ra	
+0x800493C0	340	func_800493C0	verified	2	u32	1	4	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80049514	432	func_80049514	verified	2	u32	2	3	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x800496C4	404	func_800496C4	verified	2	u32	2	3	56	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80049858	376	func_80049858	low	2	u32	1	4	0	s0|s1|s2|s3|s4|s5|ra	orphan
+0x800499D0	164	func_800499D0	verified	3	u32	1	3	32	s0|s1|s2|ra	
+0x80049A74	36	func_80049A74	verified	0	u32	6	1	24	ra	
+0x80049A98	68	func_80049A98	verified	2	void	1	1	24	s0|ra	
+0x80049ADC	300	func_80049ADC	verified	1	u32	1	3	40	s0|s1|s2|ra	
+0x80049C08	260	func_80049C08	high	1	u32	1	2	0	s0|s1|s2|ra	
+0x80049D0C	412	func_80049D0C	verified	1	u32	1	2	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80049EA8	12	func_80049EA8	verified	0	void	1	0	16		leaf
+0x80049EB4	112	func_80049EB4	verified	1	u32	1	1	32	s0|s1|ra	
+0x80049F24	460	func_80049F24	high	2	u32	1	0	0		leaf
+0x8004A0F0	436	func_8004A0F0	verified	1	u32	1	4	40	s0|s1|ra	
+0x8004A2A4	60	func_8004A2A4	high	1	u32	3	0	0		leaf
+0x8004A2E0	120	func_8004A2E0	verified	2	u32	1	1	40	s0|s1|s2|s3|ra	
+0x8004A358	300	func_8004A358	high	3	u32	3	0	0		leaf
+0x8004A484	212	func_8004A484	verified	0	u32	5	1	24	ra	
+0x8004A558	28	func_8004A558	high	1	u32	2	0	0		leaf
+0x8004A574	544	func_8004A574	verified	2	u32	7	8	72	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8004A794	80	func_8004A794	verified	0	u32	3	2	32	s0|ra	
+0x8004A7E4	72	func_8004A7E4	verified	1	u32	2	1	24	s0|ra	addr_taken
+0x8004A82C	108	func_8004A82C	verified	4	u32	3	1	32	s0|s1|ra	addr_taken
+0x8004A898	12	func_8004A898	high	1	u32	2	0	0		leaf|addr_taken
+0x8004A8A4	36	func_8004A8A4	high	0	u32	1	0	0		leaf|addr_taken
+0x8004A8C8	16	func_8004A8C8	high	2	u32	1	0	0		leaf|addr_taken
+0x8004A8D8	116	func_8004A8D8	verified	0	u32	1	2	40	s0|s1|ra	
+0x8004A94C	152	func_8004A94C	high	2	u32	1	0	0		leaf
+0x8004A9E4	96	func_8004A9E4	verified	1	u32	1	1	32	s0|s1|ra	
+0x8004AA44	268	func_8004AA44	verified	3	u32	1	4	40	s0|s1|s2|s3|s4|ra	
+0x8004AB50	152	func_8004AB50	verified	3	u32	2	2	40	s0|s1|s2|s3|ra	addr_taken
+0x8004ABE8	188	func_8004ABE8	high	1	u32	9	8	0	s0|s1|s2|ra	
+0x8004ACA4	188	func_8004ACA4	high	1	u32	5	8	0	s0|s1|s2|ra	
+0x8004AD60	296	func_8004AD60	verified	3	u32	1	6	32	s0|s1|ra	
+0x8004AE88	128	func_8004AE88	high	2	u32	1	0	0		leaf
+0x8004AF08	452	func_8004AF08	high	2	u32	1	0	0		leaf
+0x8004B0CC	640	func_8004B0CC	high	2	u32	1	0	0		leaf
+0x8004B34C	616	func_8004B34C	high	2	u32	1	0	0		leaf
+0x8004B5B4	1648	func_8004B5B4	verified	4	u32	1	1	96	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	break
+0x8004BC24	936	func_8004BC24	verified	4	u32	1	0	32	s0|s1|s2|s3|s4|s5|s6|s7	leaf|break
+0x8004BFCC	32	func_8004BFCC	high	1	u32	1	0	0		leaf
+0x8004BFEC	380	func_8004BFEC	verified	0	u32	1	19	96	s0|s1|s2|s3|ra	
+0x8004C168	32	func_8004C168	verified	1	void	2	1	24	ra	
+0x8004C188	36	func_8004C188	verified	1	void	2	1	24	ra	
+0x8004C1AC	32	func_8004C1AC	verified	0	void	1	1	24	ra	
+0x8004C1CC	56	func_8004C1CC	verified	2	u32	1	1	48	ra	
+0x8004C204	32	func_8004C204	verified	0	void	1	1	24	ra	
+0x8004C224	32	func_8004C224	verified	0	void	2	1	24	ra	
+0x8004C244	36	func_8004C244	verified	0	void	2	1	24	ra	
+0x8004C268	32	func_8004C268	verified	0	void	2	1	24	ra	
+0x8004C288	8	func_8004C288	high	0	void	1	0	0		leaf
+0x8004C290	100	func_8004C290	verified	0	u32	1	2	32	s0|s1|ra	
+0x8004C2F4	268	func_8004C2F4	verified	2	u32	2	7	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8004C400	72	func_8004C400	verified	1	u32	1	1	40	ra	
+0x8004C448	76	func_8004C448	verified	1	u32	1	1	40	ra	
+0x8004C494	32	func_8004C494	high	0	u32	1	0	0		leaf
+0x8004C4B4	100	func_8004C4B4	high	1	u32	1	3	0	s0|ra	
+0x8004C518	204	func_8004C518	verified	1	u32	3	5	32	s0|s1|ra	
+0x8004C5E4	96	func_8004C5E4	high	0	u32	1	3	0	ra	
+0x8004C644	92	func_8004C644	high	0	u32	1	2	0	ra	
+0x8004C6A0	92	func_8004C6A0	high	0	u32	1	3	0	ra	
+0x8004C6FC	28	func_8004C6FC	low	1	u32	0	0	0		leaf|orphan
+0x8004C718	276	func_8004C718	verified	1	u32	1	3	40	s0|s1|ra	
+0x8004C82C	40	func_8004C82C	high	0	u32	1	1	0	ra	
+0x8004C854	176	func_8004C854	verified	3	u32	3	1	32	ra	
+0x8004C904	36	func_8004C904	verified	2	void	2	1	24	ra	
+0x8004C928	104	func_8004C928	verified	2	u32	19	1	24	ra	
+0x8004C990	120	func_8004C990	verified	2	u32	1	1	24	ra	
+0x8004CA08	68	func_8004CA08	verified	4	void	1	1	48	ra	
+0x8004CA4C	40	func_8004CA4C	verified	0	u32	2	1	48	ra	
+0x8004CA74	56	func_8004CA74	high	1	u32	1	0	0		leaf
+0x8004CAAC	52	func_8004CAAC	high	1	u32	3	0	0		leaf
+0x8004CAE0	364	func_8004CAE0	high	0	u32	1	2	0	s0|s1|ra	
+0x8004CC4C	380	func_8004CC4C	verified	1	u32	1	1	40	s0|s1|s2|s3|ra	break
+0x8004CDC8	76	func_8004CDC8	verified	0	u32	1	1	32	s0|s1|ra	
+0x8004CE14	16	bios_A0_39_InitHeap	verified	0	void	1	0	0		bios|leaf
+0x8004CE24	48	func_8004CE24	high	0	u32	5	0	0	ra	indirect
+0x8004CE54	48	func_8004CE54	high	0	u32	4	0	0	ra	indirect
+0x8004CE84	48	func_8004CE84	high	0	u32	7	0	0	ra	indirect
+0x8004CEB4	52	func_8004CEB4	verified	1	u32	1	0	24	ra	indirect
+0x8004CEE8	48	func_8004CEE8	high	0	u32	1	0	0	ra	indirect
+0x8004CF18	16	func_8004CF18	high	0	u32	3	0	0		leaf
+0x8004CF28	24	func_8004CF28	high	1	u32	4	0	0		leaf
+0x8004CF40	104	func_8004CF40	medium	0	u32	0	2	24	s0|ra	addr_taken
+0x8004CFA8	112	func_8004CFA8	low	0	u32	0	6	0		orphan
+0x8004D018	464	func_8004D018	medium	0	u32	1	2	40	s0|s1|s2|s3|s4|ra	orphan|indirect
+0x8004D1E8	328	func_8004D1E8	high	2	u32	0	2	40	s0|s1|s2|s3|s4|ra	addr_taken
+0x8004D330	160	func_8004D330	high	0	u32	0	2	24	s0|ra	addr_taken
+0x8004D3D0	120	func_8004D3D0	medium	0	u32	0	2	24	s0|ra	orphan
+0x8004D448	36	func_8004D448	high	2	u32	1	0	0		leaf
+0x8004D46C	16	bios_B0_5B_ChangeClearPad	verified	0	void	5	0	0		bios|leaf
+0x8004D47C	372	func_8004D47C	verified	1	u32	1	5	32	s0|s1|ra	indirect
+0x8004D5F0	92	func_8004D5F0	verified	1	u32	1	1	24	s0|ra	
+0x8004D64C	152	func_8004D64C	verified	1	u32	6	2	32	s0|s1|ra	indirect
+0x8004D6E4	104	func_8004D6E4	high	1	u32	8	1	0	s0|ra	indirect
+0x8004D74C	284	func_8004D74C	verified	2	u32	2	1	32	s0|ra	
+0x8004D868	144	func_8004D868	medium	4	u32	0	1	40	s0|s1|s2|s3|ra	orphan|indirect
+0x8004D8F8	96	func_8004D8F8	verified	2	u32	5	1	32	s0|s1|ra	indirect
+0x8004D958	172	func_8004D958	high	2	u32	1	1	0	s0|s1|ra	indirect
+0x8004DA04	112	func_8004DA04	high	1	u32	1	1	0	s0|ra	indirect
+0x8004DA74	192	func_8004DA74	verified	1	u32	1	3	32	s0|s1|s2|ra	indirect
+0x8004DB34	1272	func_8004DB34	verified	1	u32	1	3	32	s0|s1|s2|ra	indirect
+0x8004E02C	504	func_8004E02C	medium	2	u32	0	5	40	s0|s1|ra	orphan
+0x8004E224	624	func_8004E224	verified	2	u32	1	5	40	s0|s1|ra	
+0x8004E494	32	func_8004E494	high	3	u32	2	0	0		leaf
+0x8004E4B4	152	func_8004E4B4	high	2	u32	2	0	0		leaf
+0x8004E54C	152	func_8004E54C	high	2	u32	2	0	0		leaf
+0x8004E5E4	28	func_8004E5E4	high	2	u32	2	0	0		leaf
+0x8004E600	128	func_8004E600	high	1	u32	2	0	0		leaf
+0x8004E680	24	func_8004E680	high	0	u32	0	0	0		leaf|addr_taken
+0x8004E698	224	func_8004E698	high	2	u32	0	2	32	s0|s1|ra	addr_taken
+0x8004E778	560	func_8004E778	high	2	u32	0	2	32	s0|s1|s2|ra	addr_taken
+0x8004E9A8	572	func_8004E9A8	high	2	u32	0	2	48	s0|s1|s2|s3|s4|s5|ra	addr_taken
+0x8004EBE4	640	func_8004EBE4	high	2	u32	0	2	40	s0|s1|s2|s3|s4|ra	addr_taken
+0x8004EE64	36	func_8004EE64	high	1	u32	0	0	0		leaf|addr_taken
+0x8004EE88	20	func_8004EE88	high	1	u32	0	0	0		leaf|addr_taken
+0x8004EE9C	64	func_8004EE9C	high	2	u32	0	0	0		leaf|addr_taken
+0x8004EEDC	72	func_8004EEDC	high	1	u32	1	0	0		leaf|addr_taken
+0x8004EF24	48	func_8004EF24	high	1	u32	1	0	0		leaf|addr_taken
+0x8004EF54	36	func_8004EF54	high	3	void	0	1	24	ra	addr_taken
+0x8004EF78	688	func_8004EF78	verified	4	u32	1	5	40	s0|s1|s2|s3|ra	addr_taken|indirect
+0x8004F228	608	func_8004F228	high	0	u32	3	2	0	s0|s1|ra	addr_taken|indirect
+0x8004F488	336	func_8004F488	verified	1	u32	1	3	24	s0|ra	addr_taken
+0x8004F5D8	316	func_8004F5D8	high	1	u32	0	3	24	s0|ra	addr_taken
+0x8004F714	52	func_8004F714	verified	0	u32	5	1	24	ra	
+0x8004F748	324	func_8004F748	verified	0	u32	6	3	32	ra	
+0x8004F88C	160	func_8004F88C	high	1	u32	1	0	0		leaf
+0x8004F92C	252	func_8004F92C	low	1	u32	0	5	0	s0|ra	orphan|indirect
+0x8004FA28	40	func_8004FA28	medium	0	void	1	2	24	ra	addr_taken|orphan
+0x8004FA50	36	func_8004FA50	high	3	u32	3	0	0		leaf
+0x8004FA7C	12	func_8004FA7C	high	1	void	1	0	0		leaf|gte
+0x8004FA8C	8	func_8004FA8C	low	0	void	0	0	0		leaf|orphan
+0x8004FA94	128	func_8004FA94	high	0	u32	1	1	0		gte
+0x8004FB1C	44	func_8004FB1C	verified	0	void	1	1	24	ra	
+0x8004FB48	80	func_8004FB48	verified	0	u32	1	4	24	ra	
+0x8004FB98	104	func_8004FB98	medium	1	u32	0	3	24	ra	orphan
+0x8004FC00	468	func_8004FC00	medium	1	u32	4	5	32	s0|s1|ra	addr_taken|orphan
+0x8004FDD4	104	func_8004FDD4	medium	1	u32	0	3	24	ra	orphan
+0x8004FE3C	564	func_8004FE3C	medium	1	u32	2	10	32	s0|s1|ra	addr_taken|orphan
+0x80050070	184	func_80050070	medium	3	u32	0	3	24	ra	orphan
+0x80050128	316	func_80050128	medium	1	u32	2	6	32	s0|s1|ra	addr_taken|orphan
+0x80050264	184	func_80050264	medium	3	u32	0	3	24	ra	orphan
+0x8005031C	316	func_8005031C	medium	1	u32	2	6	32	s0|s1|ra	addr_taken|orphan
+0x80050458	280	func_80050458	medium	4	u32	0	5	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x80050570	264	func_80050570	medium	1	u32	1	5	32	s0|s1|ra	addr_taken|orphan
+0x80050678	280	func_80050678	medium	4	u32	0	5	48	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x80050790	264	func_80050790	medium	1	u32	1	5	32	s0|s1|ra	addr_taken|orphan
+0x80050898	20	func_80050898	low	1	u32	1	0	0		leaf|orphan
+0x800508AC	284	func_800508AC	low	3	u32	0	0	0		leaf|orphan
+0x800509C8	520	func_800509C8	medium	3	u32	0	8	80	s0|s1|s2|s3|s4|ra	orphan
+0x80050BD0	140	func_80050BD0	medium	0	u32	0	6	88	ra	orphan
+0x80050C5C	180	func_80050C5C	medium	1	u32	0	5	160	s0|s1|ra	orphan
+0x80050D10	84	func_80050D10	low	1	u32	5	0	0		leaf|orphan
+0x80050D64	132	func_80050D64	verified	0	u32	1	2	24	ra	addr_taken|indirect
+0x80050DE8	92	func_80050DE8	low	2	u32	4	0	0		leaf|orphan
+0x80050E44	32	func_80050E44	verified	0	void	1	1	24	ra	
+0x80050E64	192	func_80050E64	high	0	u32	1	0	0	ra	indirect
+0x80050F24	212	func_80050F24	low	3	u32	0	0	0	s0|s1|ra	orphan|indirect
+0x80050FF8	56	func_80050FF8	high	2	u32	1	1	0	s0|ra	indirect
+0x80051030	72	func_80051030	high	3	u32	1	1	0	s0|s1|ra	indirect
+0x80051080	144	func_80051080	verified	0	u32	1	5	24	s0|ra	
+0x80051110	60	func_80051110	verified	0	u32	1	2	24	ra	
+0x8005114C	40	func_8005114C	verified	0	void	1	1	24	ra	addr_taken
+0x80051174	40	func_80051174	verified	0	void	1	1	24	ra	addr_taken
+0x8005119C	40	func_8005119C	verified	0	void	1	1	24	ra	addr_taken
+0x800511D0	544	func_800511D0	verified	2	u32	1	10	40	s0|s1|s2|s3|ra	
+0x800513F0	104	func_800513F0	high	1	u32	1	0	0		leaf|addr_taken
+0x80051458	272	func_80051458	verified	1	u32	1	3	96	s0|s1|s2|s3|ra	addr_taken
+0x80051568	68	func_80051568	high	1	u32	2	0	0		leaf|addr_taken
+0x800515AC	272	func_800515AC	high	2	u32	1	0	0		leaf|addr_taken
+0x800516BC	636	func_800516BC	verified	1	u32	1	1	24	s0|ra	addr_taken
+0x80051938	124	func_80051938	high	1	u32	1	0	0		leaf|addr_taken
+0x800519B4	112	func_800519B4	high	1	u32	1	0	0		leaf|addr_taken
+0x80051A30	48	func_80051A30	high	3	u32	23	0	0		leaf
+0x80051A60	16	func_80051A60	high	0	void	15	0	0		leaf|syscall
+0x80051A70	24	func_80051A70	high	2	u32	1	0	0		leaf
+0x80051A90	60	func_80051A90	high	4	u32	3	0	0		leaf
+0x80051AD0	180	func_80051AD0	verified	4	u32	1	1	40	s0|s1|s2|s3|s4|ra	
+0x80051B84	60	func_80051B84	high	4	u32	1	0	0		leaf
+0x80051BC0	376	func_80051BC0	high	1	u32	20	1	0	s0|s1|ra	
+0x80051D38	152	func_80051D38	verified	2	u32	1	3	32	ra	
+0x80051DD0	16	func_80051DD0	high	0	void	16	0	0		leaf|syscall
+0x80051DE0	296	func_80051DE0	verified	4	u32	1	5	48	s0|s1|s2|s3|s4|s5|s6|ra	
+0x80051F08	204	func_80051F08	high	0	u32	2	7	0	s0|ra	
+0x80051FD4	68	func_80051FD4	verified	1	u32	2	1	64	ra	
+0x80052018	68	func_80052018	verified	1	u32	2	1	64	ra	
+0x8005205C	244	func_8005205C	high	0	u32	1	2	0	ra	
+0x80052150	80	func_80052150	verified	1	u32	2	1	24	ra	
+0x800521A0	232	func_800521A0	high	2	u32	4	1	0	s0|s1|ra	break
+0x80052288	24	func_80052288	high	0	u32	2	0	0		leaf
+0x800522A0	80	func_800522A0	verified	1	u32	2	1	24	ra	
+0x800522F0	16	func_800522F0	high	0	u32	1	0	0		leaf
+0x80052300	2332	func_80052300	medium	0	u32	1	5	64	ra	orphan|indirect
+0x80052C1C	44	func_80052C1C	low	3	u32	1	0	0		leaf|orphan
+0x80052C48	424	func_80052C48	medium	4	u32	1	1	48	s0|s1|s2|s3|s4|ra	orphan
+0x80052DF0	128	func_80052DF0	medium	0	u32	0	6	24	ra	orphan
+0x80052E70	132	func_80052E70	medium	1	u32	0	5	32	s0|ra	orphan
+0x80052EF4	32	func_80052EF4	medium	0	void	1	1	24	ra	addr_taken|orphan
+0x80052F20	132	func_80052F20	medium	4	void	0	1	32	s0|s1|s2|ra	orphan
+0x80052FB0	44	func_80052FB0	medium	2	void	0	1	24	ra	orphan
+0x80052FE0	184	func_80052FE0	low	2	u32	0	0	0		leaf|orphan
+0x800530A0	16	func_800530A0	high	0	u32	2	0	0		leaf
+0x800530B0	16	func_800530B0	high	0	u32	1	0	0		leaf
+0x800530C0	12	func_800530C0	high	0	u32	1	0	0		leaf
+0x800530CC	108	func_800530CC	verified	1	u32	2	3	24	s0|ra	
+0x80053138	32	func_80053138	verified	0	void	1	1	24	ra	
+0x80053158	32	func_80053158	verified	0	void	1	1	24	ra	
+0x80053178	32	func_80053178	verified	0	void	2	1	24	ra	
+0x80053198	20	func_80053198	high	1	u32	4	0	0		leaf
+0x800531AC	20	func_800531AC	high	1	u32	8	0	0		leaf
+0x800531C0	316	func_800531C0	verified	3	u32	8	1	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x800532FC	308	func_800532FC	verified	2	u32	1	1	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80053430	332	func_80053430	verified	3	u32	3	2	56	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8005357C	32	func_8005357C	verified	0	u32	1	1	24	ra	
+0x8005359C	32	func_8005359C	verified	0	u32	1	1	24	ra	
+0x800535BC	36	func_800535BC	verified	1	void	6	1	24	ra	
+0x800535E0	32	func_800535E0	verified	0	void	1	1	24	ra	
+0x80053600	128	func_80053600	high	1	u32	2	0	0		leaf
+0x80053680	172	func_80053680	low	1	u32	0	0	0		leaf|orphan
+0x80053730	92	func_80053730	low	1	u32	0	0	0		leaf|orphan
+0x80053790	12	func_80053790	low	4	void	4	0	0		leaf
+0x8005379C	2164	func_8005379C	medium	2	u32	0	3	584	s0|s1|s2|s3|s4|s5|s6|ra	orphan
+0x80054010	48	func_80054010	high	0	u32	2	0	0		leaf
+0x80054040	12	func_80054040	high	1	void	1	0	0		leaf
+0x80054050	156	func_80054050	high	3	u32	1	0	0		leaf
+0x800540EC	56	func_800540EC	high	1	u32	1	0	0		leaf
+0x80054124	48	func_80054124	high	1	u32	1	0	0		leaf
+0x80054154	372	func_80054154	high	2	u32	1	0	0		leaf|break
+0x800542D4	44	func_800542D4	high	4	u32	1	0	0		leaf
+0x80054304	60	func_80054304	verified	4	u32	34	1	24	ra	
+0x80054344	60	func_80054344	high	2	u32	2	0	0		leaf
+0x80054384	160	func_80054384	high	1	u32	1	0	0		leaf
+0x80054424	60	func_80054424	verified	1	u32	1	1	24	ra	
+0x80054460	144	func_80054460	high	1	u32	1	0	0		leaf
+0x800544F4	56	func_800544F4	low	2	u32	0	0	0		leaf|orphan
+0x80054534	100	func_80054534	low	3	u32	0	0	0		leaf|orphan
+0x800545A4	68	func_800545A4	low	2	u32	0	0	0		leaf|orphan
+0x800545F4	632	func_800545F4	verified	2	u32	1	12	48	s0|s1|ra	addr_taken|indirect
+0x8005486C	212	func_8005486C	verified	0	u32	2	4	24	s0|ra	addr_taken|indirect
+0x80054940	488	func_80054940	verified	1	u32	3	14	40	s0|s1|s2|ra	
+0x80054B28	256	func_80054B28	verified	3	u32	1	7	24	s0|ra	
+0x80054C28	200	func_80054C28	verified	2	u32	1	3	40	s0|s1|s2|s3|ra	
+0x80054CF0	92	func_80054CF0	verified	1	u32	1	1	24	ra	
+0x80054D50	92	func_80054D50	verified	2	u32	1	1	24	s0|ra	
+0x80054DB0	52	func_80054DB0	high	3	u32	6	0	0		leaf
+0x80054DF0	164	func_80054DF0	high	1	u32	2	1	0	s0|s1|ra	
+0x80054EA0	16	bios_A0_44_FlushCache	verified	0	void	5	0	0		bios|leaf
+0x80054EB0	76	func_80054EB0	high	2	u32	1	0	0		leaf
+0x80054EFC	64	func_80054EFC	high	2	u32	1	0	0		leaf
+0x80054F3C	448	func_80054F3C	verified	2	u32	1	6	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x800550FC	368	func_800550FC	verified	1	u32	1	5	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8005526C	56	func_8005526C	high	1	u32	1	0	0		leaf
+0x800552A4	60	func_800552A4	high	1	u32	1	0	0		leaf
+0x800552E0	44	func_800552E0	high	1	u32	1	0	0		leaf
+0x8005530C	16	func_8005530C	high	0	void	1	0	0		leaf
+0x8005531C	260	func_8005531C	verified	3	u32	1	1	64	s0|s1|s2|s3|s4|s5|ra	
+0x80055420	280	func_80055420	high	4	u32	1	0	0		leaf
+0x80055538	88	func_80055538	high	1	u32	2	0	0		leaf
+0x80055590	16	func_80055590	high	0	u32	2	0	0		leaf
+0x800555A0	1712	func_800555A0	verified	1	u32	1	2	40	s0|ra	
+0x80055C50	36	func_80055C50	high	1	u32	1	0	0		leaf
+0x80055C74	32	func_80055C74	high	2	u32	2	0	0		leaf
+0x80055C94	36	func_80055C94	high	1	u32	1	0	0		leaf
+0x80055CB8	296	func_80055CB8	high	1	u32	0	1	24	ra	addr_taken
+0x80055DE0	32	func_80055DE0	high	0	void	0	1	24	ra	addr_taken
+0x80055E00	32	func_80055E00	high	1	u32	2	0	0		leaf
+0x80055E20	52	func_80055E20	high	0	void	1	1	0	ra	
+0x80055E54	516	func_80055E54	high	0	u32	0	3	0	s0|s1|ra	addr_taken
+0x80056058	8	func_80056058	high	0	void	0	0	0		leaf|addr_taken
+0x80056060	8	func_80056060	high	0	void	0	0	0		leaf|addr_taken
+0x80056068	172	func_80056068	high	1	u32	0	2	24	s0|ra	addr_taken
+0x80056114	364	func_80056114	verified	1	u32	1	2	40	s0|ra	addr_taken
+0x80056280	40	func_80056280	high	1	u32	0	0	0		leaf|addr_taken
+0x800562A8	8	func_800562A8	high	0	void	0	0	0		leaf|addr_taken
+0x800562B0	616	func_800562B0	high	1	u32	0	1	32	s0|s1|s2|ra	addr_taken
+0x80056518	8	func_80056518	high	0	void	0	0	0		leaf|addr_taken
+0x80056520	8	func_80056520	high	0	void	0	0	0		leaf|addr_taken
+0x80056528	1368	func_80056528	high	1	u32	0	1	40	s0|s1|s2|s3|ra	addr_taken
+0x80056A80	1244	func_80056A80	high	1	u32	0	1	40	s0|s1|s2|s3|ra	addr_taken
+0x80056F5C	336	func_80056F5C	high	1	u32	0	1	24	s0|ra	addr_taken
+0x800570AC	48	func_800570AC	high	1	u32	0	0	0		leaf|addr_taken
+0x800570DC	8	func_800570DC	high	0	void	0	0	0		leaf|addr_taken
+0x800570E4	156	func_800570E4	verified	4	u32	1	1	24	ra	
+0x80057180	200	func_80057180	verified	1	u32	2	1	24	s0|ra	
+0x80057248	188	func_80057248	verified	1	u32	1	2	24	s0|ra	
+0x80057304	172	func_80057304	verified	1	u32	2	1	24	s0|ra	
+0x800573B0	560	func_800573B0	verified	4	u32	2	2	48	s0|s1|s2|s3|s4|ra	
+0x800575E0	372	func_800575E0	high	1	u32	0	1	32	s0|ra	addr_taken
+0x80057754	260	func_80057754	high	1	u32	0	1	0	s0|s1|ra	addr_taken
+0x80057858	56	func_80057858	verified	1	u32	4	0	24	ra	indirect
+0x80057890	16	func_80057890	high	0	u32	2	0	0		leaf
+0x800578A0	44	func_800578A0	high	1	u32	3	0	0		leaf
+0x800578CC	108	func_800578CC	high	0	u32	4	2	0	ra	
+0x80057938	84	func_80057938	verified	0	u32	4	1	24	ra	
+0x8005798C	532	func_8005798C	high	2	u32	1	7	0	s0|s1|s2|s3|s4|s5|ra	
+0x80057BA0	176	func_80057BA0	verified	2	u32	1	5	24	s0|ra	
+0x80057C50	412	func_80057C50	verified	4	u32	1	6	48	s0|s1|s2|s3|ra	
+0x80057DEC	184	func_80057DEC	high	1	u32	1	1	0	s0|s1|ra	
+0x80057EA4	156	func_80057EA4	high	2	u32	1	2	0	s0|s1|s2|ra	
+0x80057F40	56	func_80057F40	verified	1	u32	2	0	24	ra	indirect
+0x80057F78	44	func_80057F78	verified	2	u32	1	0	8		leaf
+0x80057FA4	16	func_80057FA4	high	0	u32	1	0	0		leaf
+0x80057FB4	48	func_80057FB4	high	0	u32	1	0	0		leaf
+0x80057FE4	16	func_80057FE4	high	0	u32	1	0	0		leaf
+0x80057FF4	16	func_80057FF4	high	0	u32	4	0	0		leaf
+0x80058004	112	func_80058004	verified	1	u32	2	1	24	s0|ra	
+0x80058074	32	func_80058074	verified	0	void	1	1	24	ra	
+0x80058094	100	func_80058094	verified	0	u32	1	3	24	ra	
+0x800580F8	80	func_800580F8	high	0	u32	2	1	0	ra	
+0x80058148	132	func_80058148	high	0	u32	1	3	0	ra	indirect
+0x800581CC	680	func_800581CC	verified	1	u32	1	4	48	s0|s1|ra	
+0x80058474	1372	func_80058474	high	3	u32	1	11	0	s0|s1|s2|ra	indirect
+0x800589D0	708	func_800589D0	verified	3	u32	1	2	40	s0|s1|s2|s3|ra	
+0x80058C94	116	func_80058C94	verified	2	u32	1	1	32	s0|s1|ra	
+0x80058D08	768	func_80058D08	verified	4	u32	2	5	88	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x80059008	32	func_80059008	verified	0	void	1	1	24	ra	
+0x80059028	72	func_80059028	verified	2	u32	1	1	32	ra	
+0x80059070	480	func_80059070	verified	3	u32	1	5	72	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x80059250	36	func_80059250	verified	0	void	1	1	24	ra	
+0x80059274	464	func_80059274	verified	2	u32	1	5	72	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x80059444	36	func_80059444	verified	0	void	2	1	24	ra	
+0x80059468	460	func_80059468	verified	1	u32	1	3	72	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x80059634	140	func_80059634	high	2	u32	1	1	0	s0|s1|s2|s3|ra	
+0x800596C0	180	func_800596C0	high	3	u32	1	3	0	s0|s1|s2|s3|s4|ra	
+0x80059774	60	func_80059774	verified	1	u32	3	0	32	ra	indirect
+0x800597B0	32	func_800597B0	verified	0	void	1	1	24	ra	
+0x800597D0	8	func_800597D0	high	0	u32	1	0	0		leaf
+0x800597D8	8	func_800597D8	high	0	void	1	0	0		leaf
+0x800597E0	16	func_800597E0	high	0	void	2	0	0		leaf
+0x800597F0	20	func_800597F0	high	0	u32	1	0	0		leaf
+0x80059804	64	func_80059804	verified	0	u32	6	1	24	ra	
+0x80059844	60	func_80059844	high	0	u32	6	1	0	ra	
+0x80059880	40	func_80059880	verified	1	void	1	1	24	ra	
+0x800598A8	16	func_800598A8	high	0	u32	6	0	0		leaf
+0x800598B8	92	func_800598B8	verified	0	u32	2	1	24	ra	break
+0x80059914	16	func_80059914	high	0	u32	1	0	0		leaf
+0x80059924	164	func_80059924	verified	3	u32	3	1	24	s0|ra	
+0x800599C8	148	func_800599C8	high	0	u32	1	3	0	ra	addr_taken
+0x80059A5C	204	func_80059A5C	verified	1	u32	1	5	24	s0|ra	
+0x80059B28	48	func_80059B28	high	1	u32	1	0	0		leaf|break
+0x80059B58	172	func_80059B58	high	0	u32	1	9	0	ra	
+0x80059C04	48	func_80059C04	verified	0	u32	3	0	24	ra	indirect
+0x80059C34	44	func_80059C34	verified	3	u32	5	0	24	ra	indirect
+0x80059C60	40	func_80059C60	high	0	u32	3	0	0	ra	indirect
+0x80059C88	40	func_80059C88	high	0	u32	3	0	0	ra	indirect
+0x80059CB0	60	func_80059CB0	high	1	u32	1	0	0		leaf|gp
+0x80059CEC	16	bios_B0_19_SetCustomExitFromException	verified	0	void	2	0	0		bios|leaf|orphan
+0x80059CFC	88	func_80059CFC	medium	0	u32	1	4	24	ra	orphan
+0x80059D54	108	func_80059D54	medium	0	u32	1	0	0	s0|s1|ra	addr_taken|orphan|indirect
+0x80059DC0	44	func_80059DC0	medium	2	u32	1	0	0		leaf|addr_taken|orphan
+0x80059DEC	36	func_80059DEC	low	2	u32	1	0	0		leaf|orphan
+0x80059E1C	76	func_80059E1C	medium	0	u32	1	4	24	ra	orphan
+0x80059E68	384	func_80059E68	medium	0	u32	1	1	0	s0|s1|s2|s3|s4|s5|ra	addr_taken|orphan|indirect
+0x80059FE8	172	func_80059FE8	medium	2	u32	1	0	0		leaf|addr_taken|orphan
+0x8005A094	36	func_8005A094	low	2	u32	1	0	0		leaf|orphan
+0x8005A0C4	24	bios_A0_72_CdRemove	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005A0DC	16	bios_B0_17_ReturnFromException	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005A0EC	16	bios_C0_0A_ChangeClearRCnt	verified	0	void	3	0	0		bios|leaf
+0x8005A0FC	16	bios_B0_18_SetDefaultExitFromException	verified	0	void	1	0	0		bios|leaf
+0x8005A10C	16	bios_A0_49_GPU_cw	verified	0	void	1	0	0		bios|leaf
+0x8005A11C	16	func_8005A11C	high	0	u32	2	0	0		leaf
+0x8005A138	172	func_8005A138	high	0	u32	1	4	0		indirect
+0x8005A1E4	72	func_8005A1E4	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A22C	20	func_8005A22C	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A240	20	func_8005A240	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A254	20	func_8005A254	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A268	20	func_8005A268	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A27C	20	func_8005A27C	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A290	20	func_8005A290	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A2A4	20	func_8005A2A4	high	0	u32	1	0	0		leaf|addr_taken
+0x8005A2B8	48	func_8005A2B8	verified	0	void	1	3	24	ra	
+0x8005A2E8	476	func_8005A2E8	verified	0	u32	1	12	24	s0|ra	
+0x8005A4C4	264	func_8005A4C4	high	0	u32	7	1	0	ra	
+0x8005A5CC	216	func_8005A5CC	medium	0	u32	4	1	24	s0|ra	orphan
+0x8005A6A4	216	func_8005A6A4	medium	0	u32	3	1	24	s0|ra	orphan
+0x8005A77C	60	func_8005A77C	low	0	u32	4	0	0		leaf|orphan
+0x8005A7B8	60	func_8005A7B8	low	0	u32	1	0	0		leaf|orphan
+0x8005A7F4	16	func_8005A7F4	high	0	u32	1	0	0		leaf
+0x8005A804	124	func_8005A804	low	0	u32	10	1	0	ra	orphan
+0x8005A880	108	func_8005A880	high	0	u32	1	0	0	ra	indirect
+0x8005A8EC	16	func_8005A8EC	high	0	u32	1	0	0		leaf
+0x8005A904	16	bios_A0_AB	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005A914	52	func_8005A914	medium	1	void	1	2	24	s0|ra	orphan
+0x8005A954	16	bios_A0_AC	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005A964	164	func_8005A964	medium	2	u32	3	1	32	s0|s1|s2|ra	orphan
+0x8005AA14	16	bios_B0_32_FileOpen	verified	0	void	3	0	0		bios|leaf|orphan
+0x8005AA24	16	bios_B0_36_FileClose	verified	0	void	3	0	0		bios|leaf|orphan
+0x8005AA34	16	bios_B0_33_FileSeek	verified	0	void	2	0	0		bios|leaf|orphan
+0x8005AA44	16	bios_B0_34_FileRead	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005AA54	16	bios_B0_35_FileWrite	verified	0	void	3	0	0		bios|leaf
+0x8005AA64	16	bios_B0_41_FormatDevice	verified	0	void	1	0	0		bios|leaf|orphan
+0x8005AA74	16	bios_B0_50__new_card	verified	0	void	2	0	0		bios|leaf|orphan
+0x8005AA84	16	bios_B0_4E__card_write	verified	0	void	2	0	0		bios|leaf|orphan
+0x8005AA94	44	func_8005AA94	high	0	u32	1	2	0		leaf
+0x8005AAC0	104	func_8005AAC0	high	0	u32	1	0	0	ra	addr_taken|indirect
+0x8005AB28	364	func_8005AB28	verified	0	u32	1	2	24	ra	addr_taken|indirect
+0x8005AC94	204	func_8005AC94	verified	0	u32	1	5	24	s0|ra	indirect
+0x8005AD60	820	func_8005AD60	verified	1	u32	2	4	32	s0|s1|ra	indirect
+0x8005B094	200	func_8005B094	verified	0	u32	1	2	24	ra	indirect
+0x8005B15C	472	func_8005B15C	verified	2	u32	2	1	32	s0|s1|s2|ra	
+0x8005B334	568	func_8005B334	verified	2	u32	4	2	40	s0|s1|s2|s3|ra	
+0x8005B56C	144	func_8005B56C	verified	0	u32	3	1	24	ra	
+0x8005B5FC	40	func_8005B5FC	high	0	u32	2	0	0		leaf
+0x8005B624	12	func_8005B624	high	3	void	1	0	0		leaf
+0x8005B630	132	func_8005B630	verified	1	u32	1	3	24	ra	
+0x8005B6B4	332	func_8005B6B4	verified	1	u32	1	2	24	s0|ra	
+0x8005B800	56	func_8005B800	high	1	u32	1	0	0		leaf
+0x8005B838	212	func_8005B838	verified	2	u32	1	2	32	s0|s1|ra	indirect
+0x8005B90C	168	func_8005B90C	verified	1	u32	1	4	24	ra	addr_taken
+0x8005B9B4	628	func_8005B9B4	high	1	u32	1	0	0		leaf|addr_taken
+0x8005BC28	104	func_8005BC28	verified	2	u32	1	2	32	s0|s1|ra	indirect
+0x8005BC90	28	func_8005BC90	high	1	u32	1	0	0		leaf|addr_taken
+0x8005BCAC	200	func_8005BCAC	high	1	u32	1	0	0		leaf|addr_taken
+0x8005BD74	32	func_8005BD74	high	2	u32	1	0	0		leaf
+0x8005BD94	20	func_8005BD94	high	1	u32	1	0	0		leaf
+0x8005BDA8	32	func_8005BDA8	high	2	u32	2	0	0		leaf
+0x8005BDC8	32	func_8005BDC8	high	2	u32	1	0	0		leaf
+0x8005BDE8	32	func_8005BDE8	high	2	u32	2	0	0		leaf
+0x8005BE08	20	func_8005BE08	high	1	u32	1	0	0		leaf
+0x8005BE28	1372	func_8005BE28	verified	0	u32	4	2	48	s0|s1|ra	
+0x8005C384	640	func_8005C384	verified	2	u32	4	6	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x8005C604	712	func_8005C604	verified	2	u32	1	6	64	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	indirect
+0x8005C8CC	1036	func_8005C8CC	high	4	u32	4	7	0	s0|s1|s2|s3|s4|s5|s6|ra	indirect
+0x8005CCD8	212	func_8005CCD8	high	0	u32	5	0	0		leaf
+0x8005CDAC	240	func_8005CDAC	high	0	u32	2	0	0		leaf
+0x8005CE9C	76	func_8005CE9C	verified	0	void	1	3	24	ra	
+0x8005CEE8	480	func_8005CEE8	verified	0	u32	2	7	24	ra	
+0x8005D0C8	360	func_8005D0C8	verified	1	u32	1	4	48	s0|s1|s2|s3|s4|ra	
+0x8005D230	256	func_8005D230	high	2	u32	1	0	0		leaf
+0x8005D330	236	func_8005D330	high	2	u32	1	0	0		leaf
+0x8005D41C	12	func_8005D41C	low	1	void	0	0	0		leaf|orphan
+0x8005D428	216	func_8005D428	high	0	u32	2	1	0	s0|s1|s2|s3|ra	addr_taken|indirect
+0x8005D500	16	bios_B0_07_DeliverEvent	verified	0	void	4	0	0		bios|leaf
+0x8005D510	52	func_8005D510	high	0	u32	1	3	0		leaf
+0x8005D544	472	func_8005D544	verified	1	u32	2	3	24	ra	addr_taken|indirect
+0x8005D71C	912	func_8005D71C	verified	1	u32	1	3	24	s0|ra	addr_taken|indirect
+0x8005DAAC	732	func_8005DAAC	verified	1	u32	3	1	40	s0|s1|s2|s3|ra	indirect
+0x8005DD88	172	func_8005DD88	high	1	u32	2	0	0		leaf|addr_taken
+0x8005DE40	48	func_8005DE40	high	2	u32	2	0	0		leaf
+0x8005DE70	84	func_8005DE70	verified	1	void	9	2	24	s0|ra	
+0x8005DED0	84	func_8005DED0	high	2	u32	1	0	0		leaf
+0x8005DF30	48	func_8005DF30	high	1	u32	1	0	0		leaf
+0x8005DF60	1236	func_8005DF60	verified	1	u32	1	4	136	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	
+0x8005E440	892	func_8005E440	high	1	u32	3	0	0		leaf
+0x8005E7C0	120	func_8005E7C0	high	1	u32	1	0	0		leaf
+0x8005E840	204	func_8005E840	verified	1	u32	1	1	24	s0|ra	
+0x8005E910	32	func_8005E910	verified	0	void	1	1	24	ra	
+0x8005E930	52	func_8005E930	low	2	u32	2	0	0		leaf|orphan
+0x8005E970	140	func_8005E970	medium	0	u32	2	0	0	ra	addr_taken|orphan|indirect
+0x8005E9FC	20	func_8005E9FC	low	1	u32	1	0	0		leaf|orphan
+0x8005EA10	36	func_8005EA10	medium	1	void	1	1	24	ra	orphan
+0x8005EA34	28	func_8005EA34	low	3	void	1	0	0		leaf|orphan
+0x8005EA54	96	func_8005EA54	medium	0	void	1	1	24	ra	orphan
+0x8005EAB4	640	func_8005EAB4	verified	1	u32	1	3	32	s0|s1|ra	
+0x8005ED34	448	func_8005ED34	high	2	u32	2	2	0	s0|s1|s2|s3|ra	
+0x8005EEF4	188	func_8005EEF4	high	0	u32	1	2	0	ra	addr_taken|indirect
+0x8005EFB0	16	func_8005EFB0	low	4	void	2	0	0		leaf
+0x8005EFC0	624	func_8005EFC0	medium	1	u32	0	2	24	s0|ra	orphan
+0x8005F230	132	func_8005F230	high	2	u32	1	2	0	s0|s1|ra	
+0x8005F2B4	68	func_8005F2B4	high	3	u32	2	0	0		leaf
+0x8005F2F8	164	func_8005F2F8	high	2	u32	2	0	0		leaf|break
+0x8005F39C	88	func_8005F39C	low	1	u32	0	0	0		leaf|orphan
+0x8005F3F4	40	func_8005F3F4	low	0	u32	1	0	0		leaf|orphan
+0x8005F41C	40	func_8005F41C	low	0	u32	1	0	0		leaf|orphan
+0x8005F444	92	func_8005F444	verified	0	u32	3	0	8		leaf
+0x8005F4AC	52	func_8005F4AC	high	1	u32	3	0	0		leaf
+0x8005F4EC	80	func_8005F4EC	high	3	u32	2	0	0		leaf
+0x8005F53C	108	func_8005F53C	low	3	u32	1	0	0		leaf|orphan
+0x8005F5AC	1684	func_8005F5AC	verified	3	u32	1	4	120	s0|s1|s2|s3|s4|s5|s6|s7|fp|ra	break
+0x8005FC4C	232	func_8005FC4C	verified	1	u32	1	4	24	s0|ra	
+0x8005FD34	112	func_8005FD34	high	0	u32	1	6	0	ra	
+0x8005FDAC	16	bios_B0_0B_TestEvent	verified	0	void	4	0	0		bios|leaf
+0x8005FDBC	48	func_8005FDBC	verified	1	void	1	2	24	s0|ra	
+0x8005FDEC	444	func_8005FDEC	high	2	u32	2	0	0		leaf
+0x8005FFAC	136	func_8005FFAC	high	1	u32	1	0	0		leaf
+0x80060038	36	func_80060038	verified	0	void	1	1	24	ra	
+0x80060068	120	func_80060068	high	2	u32	4	0	0		leaf
+0x800600E0	56	func_800600E0	high	1	u32	0	0	0		leaf|addr_taken
+0x80060118	8	func_80060118	high	0	void	0	0	0		leaf|addr_taken
+0x80060120	8	func_80060120	high	0	void	0	0	0		leaf|addr_taken
+0x80060128	8	func_80060128	high	0	void	0	0	0		leaf|addr_taken
+0x80060130	8	func_80060130	high	0	void	0	0	0		leaf|addr_taken
+0x80060138	428	func_80060138	high	1	u32	2	0	0		leaf|addr_taken
+0x800602E4	8	func_800602E4	high	0	void	0	0	0		leaf|addr_taken
+0x800602EC	28	func_800602EC	high	1	u32	0	0	0		leaf|addr_taken
+0x80060308	8	func_80060308	high	0	void	0	0	0		leaf|addr_taken
+0x80060310	40	func_80060310	high	1	u32	0	0	0		leaf|addr_taken
+0x80060338	8	func_80060338	high	0	void	0	0	0		leaf|addr_taken
+0x80060340	8	func_80060340	high	0	void	0	0	0		leaf|addr_taken
+0x80060348	28	func_80060348	high	1	u32	0	0	0		leaf|addr_taken
+0x80060364	28	func_80060364	high	1	u32	0	0	0		leaf|addr_taken
+0x80060380	8	func_80060380	high	0	void	0	0	0		leaf|addr_taken
+0x80060388	8	func_80060388	high	0	void	0	0	0		leaf|addr_taken
+0x80060390	8	func_80060390	high	0	void	0	0	0		leaf|addr_taken
+0x80060398	8	func_80060398	high	0	void	0	0	0		leaf|addr_taken
+0x800603A0	8	func_800603A0	high	0	void	0	0	0		leaf|addr_taken
+0x800603A8	284	func_800603A8	high	1	u32	0	0	0	ra	addr_taken|indirect
+0x800604C4	236	func_800604C4	high	1	u32	0	0	0		leaf|addr_taken
+0x800605B0	244	func_800605B0	high	1	u32	0	0	0		leaf|addr_taken
+0x800606A4	244	func_800606A4	high	1	u32	0	0	0		leaf|addr_taken
+0x80060798	244	func_80060798	high	1	u32	0	0	0		leaf|addr_taken
+0x8006088C	68	func_8006088C	high	1	u32	0	0	0		leaf|addr_taken
+0x800608D0	380	func_800608D0	high	1	u32	0	2	24	s0|ra	addr_taken
+0x80060A4C	472	func_80060A4C	high	1	u32	0	0	0		leaf|addr_taken
+0x80060C24	416	func_80060C24	high	1	u32	0	0	0		leaf|addr_taken
+0x80060DC4	324	func_80060DC4	high	1	u32	0	0	0		leaf|addr_taken
+0x80060F08	664	func_80060F08	verified	1	u32	1	0	32	s0|s1|ra	addr_taken|indirect
+0x800611A0	92	func_800611A0	high	1	u32	0	2	24	s0|ra	addr_taken
+0x800611FC	156	func_800611FC	high	1	u32	0	0	0		leaf|addr_taken
+0x80061298	112	func_80061298	high	1	u32	0	0	0		leaf|addr_taken
+0x80061308	88	func_80061308	high	1	u32	0	1	24	s0|ra	addr_taken
+0x80061360	252	func_80061360	high	1	u32	0	1	24	s0|ra	addr_taken|indirect
+0x8006145C	8	func_8006145C	high	0	void	0	0	0		leaf|addr_taken
+0x80061464	824	func_80061464	high	0	u32	1	2	0	s0|s1|s2|ra	indirect
+0x8006179C	116	func_8006179C	verified	0	u32	1	5	24	ra	
+0x8006181C	1528	func_8006181C	verified	1	u32	5	2	56	s0|s1|s2|s3|s4|s5|ra	
+0x80061E1C	72	func_80061E1C	verified	2	u32	1	1	32	ra	
+0x80061E64	16	bios_B0_0C_EnableEvent	verified	0	void	3	0	0		bios|leaf
+0x80061E74	32	func_80061E74	verified	0	void	1	1	32	ra	
+0x80061E94	16	bios_B0_08_OpenEvent	verified	0	void	3	0	0		bios|leaf
+0x80061EA4	16	bios_B0_0D_DisableEvent	verified	0	void	1	0	0		bios|leaf
+0x80061EB4	16	bios_B0_09_CloseEvent	verified	0	void	1	0	0		bios|leaf
+0x80061EC4	108	func_80061EC4	verified	1	void	1	8	24	s0|ra	
+0x80061F30	56	func_80061F30	verified	0	void	1	4	24	ra	
+0x80061F68	16	bios_A0_70__bu_init	verified	0	void	1	0	0		bios|leaf
+0x80061F78	16	bios_C0_03_SysDeqIntRP	verified	0	void	1	0	0		bios|leaf
+0x80061F88	16	bios_C0_02_SysEnqIntRP	verified	0	void	1	0	0		bios|leaf
+0x80061F98	32	func_80061F98	high	1	u32	4	0	0		leaf
+0x80061FB8	160	func_80061FB8	high	0	u32	4	0	0		leaf
+0x80062058	72	func_80062058	high	1	u32	0	1	24	s0|ra	addr_taken|indirect
+0x800620A0	216	func_800620A0	high	1	u32	0	1	0	s0|ra	addr_taken|indirect
+0x80062178	192	func_80062178	high	1	u32	0	1	0	s0|ra	addr_taken|indirect
+0x80062238	140	func_80062238	high	1	u32	0	1	24	s0|ra	addr_taken|indirect
+0x800622C4	892	func_800622C4	high	1	u32	0	5	48	s0|s1|s2|s3|s4|s5|ra	addr_taken|indirect
+0x80062648	252	func_80062648	verified	1	u32	3	2	24	s0|ra	
+0x80062744	60	func_80062744	high	0	void	2	1	0	ra	
+0x80062780	140	func_80062780	high	1	u32	3	0	0		leaf
+0x80062810	1232	func_80062810	high	1	u32	1	0	0		leaf
+0x80062CE0	404	func_80062CE0	verified	1	u32	1	3	56	s0|s1|s2|s3|s4|s5|ra	
+0x80062E80	36	func_80062E80	verified	1	void	2	1	24	ra	
+0x80062EB0	700	func_80062EB0	high	4	u32	1	0	0		leaf
+0x80063170	208	func_80063170	high	4	u32	1	0	0		leaf
+0x80063240	1552	func_80063240	verified	4	u32	1	0	8	s0|s1	leaf|break
+0x80063850	16	func_80063850	high	0	u32	1	0	0		leaf
+0x80063860	16	bios_B0_4A_InitCard	verified	0	void	1	0	0		bios|leaf
+0x80063870	44	func_80063870	high	0	void	1	0	0		leaf|addr_taken
+0x8006389C	68	func_8006389C	low	0	u32	0	0	0		leaf|orphan|indirect
+0x800638E0	16	func_800638E0	medium	0	u32	2	0	0		leaf|addr_taken|indirect
+0x80063908	148	func_80063908	high	0	u32	2	3	0		addr_taken|indirect
+0x8006399C	112	func_8006399C	high	0	u32	1	3	0		indirect
+0x80063A0C	52	func_80063A0C	high	0	u32	1	2	0		leaf
+0x80063A40	16	bios_B0_4B_StartCard	verified	0	void	1	0	0		bios|leaf
+0x80063A50	179928	func_80063A50	low	2	u32	1	974	0		gte|syscall|break|gp|partial|indirect
+0x8008F928	252	func_8008F928	low	0	void	1	0	0		leaf
+0x8008FA24	268	func_8008FA24	low	0	void	1	0	0		leaf
+0x8008FB30	228	func_8008FB30	low	0	void	1	0	0		leaf
+0x8008FC14	188	func_8008FC14	low	0	void	1	0	0		leaf
+0x8008FCD0	492	func_8008FCD0	low	0	void	1	0	0		leaf
+0x8008FEBC	64	func_8008FEBC	low	0	void	1	0	0		leaf
+0x8008FEFC	260	func_8008FEFC	low	0	void	1	0	0		leaf
